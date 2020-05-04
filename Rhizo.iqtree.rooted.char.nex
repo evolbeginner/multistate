@@ -1,0 +1,2692 @@
+#NEXUS
+[R_package APE, Wed Jun 13 17:20:54 2018]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 891;
+	TAXLABELS
+		Methylobacterium_sp_Leaf361
+		Methylobacterium_radiotolerans_JCM_2831
+		Methylobacterium_sp_C1
+		Methylobacterium_phyllosphaerae_CBMB27
+		Methylobacterium_sp_UNCCL110
+		Methylobacterium_sp_GXF4
+		Methylobacterium_sp_GXS13
+		Methylobacterium_sp_CCH5_D2
+		Methylobacterium_sp_Leaf123
+		Methylobacterium_extorquens_CM4
+		Methylobacterium_sp_Leaf121
+		Methylobacterium_extorquens_PSBB040
+		Methylobacterium_zatmanii_PSBB041
+		Methylobacterium_sp_Leaf122
+		Methylobacterium_sp_Leaf92
+		Methylobacterium_sp_Leaf119
+		Methylobacterium_extorquens_PA1
+		Methylobacterium_sp_Leaf90
+		Methylobacterium_extorquens_DM4
+		Methylobacterium_extorquens_AM1
+		Methylobacterium_sp_AMS5
+		Methylobacterium_populi_BJ001
+		Methylobacterium_populi_CD11_7
+		Methylobacterium_sp_Leaf456
+		Methylobacterium_sp_Leaf106
+		Methylobacterium_sp_88A
+		Methylobacterium_sp_Leaf85
+		Methylobacterium_sp_Leaf93
+		Methylobacterium_sp_10
+		Methylobacterium_sp_Leaf91
+		Methylobacterium_sp_Leaf86
+		Methylobacterium_sp_77
+		Methylobacterium_sp_Leaf99
+		Methylobacterium_sp_Leaf87
+		Methylobacterium_sp_Leaf100
+		Methylobacterium_sp_Leaf469
+		Methylobacterium_sp_Leaf102
+		Methylobacterium_sp_Leaf112
+		Methylobacterium_sp_Leaf88
+		Methylobacterium_sp_Leaf89
+		Methylobacterium_sp_Leaf111
+		Methylobacterium_sp_Leaf94
+		Methylobacterium_sp_Leaf465
+		Methylobacterium_sp_Leaf113
+		Methylobacterium_sp_Leaf117
+		Methylobacterium_sp_Leaf104
+		Methylobacterium_sp_Leaf125
+		Methylobacterium_sp_Leaf466
+		Methylobacterium_sp_Leaf399
+		Methylobacterium_sp_Leaf108
+		Methylobacterium_platani_PMB02
+		Methylobacterium_aquaticum_MA_22A
+		Methylobacterium_sp_4_46
+		Methylobacterium_nodulans_ORS_2060
+		Microvirga_lotononidis_WSM3557
+		Microvirga_vignae_BR3299
+		Microvirga_massiliensis
+		Salinarimonas_rosea_DSM_21201
+		Chelatococcus_daeguensis_TAD1
+		Chelatococcus_sambhunathii_DSM_18167
+		Chelatococcus_sp_CO_6
+		Chelatococcus_sp_GW1
+		Bosea_sp_BIWAKO_01
+		Bosea_sp_LC85
+		Bosea_sp_WAO
+		Bosea_vaviloviae_Vaf18
+		Bosea_sp_RAC05
+		Bosea_sp_Root381
+		Bosea_sp_TND4EK4
+		Bosea_sp_UNC402CLCol
+		Bosea_thiooxidans_DSM_9653
+		Methylosinus_sp_LW3
+		Methylosinus_sp_R_45379
+		Methylocystis_sp_LW5
+		Methylosinus_sp_LW4
+		Methylosinus_sp_PW1
+		Methylosinus_trichosporium_OB3b
+		Methylocystis_sp_SC2
+		Methylocystis_rosea_SV97
+		Methylocystis_sp_ATCC_49242_Rockwell
+		Methyloferula_stellata_AR4_AR4T
+		Methylocapsa_acidiphila_B2
+		Methylocapsa_aurea_KYG_T
+		Methylocella_silvestris_BL2
+		Beijerinckia_indica_subsp_indica_ATCC_9039
+		Labrys_sp_WJW
+		Afipia_clevelandensis_ATCC_49720
+		Bradyrhizobiaceae_bacterium_SG_6C
+		Afipia_sp_NBIMC_P1_C1
+		Afipia_sp_NBIMC_P1_C2
+		Afipia_sp_NBIMC_P1_C3
+		Afipia_broomeae_ATCC_49717
+		Afipia_sp_OHSU_II_uncloned
+		Afipia_sp_OHSU_I_C6
+		Afipia_sp_OHSU_I_C4
+		Afipia_sp_OHSU_II_C2
+		Afipia_sp_OHSU_I_uncloned
+		Afipia_sp_OHSU_II_C1
+		Bradyrhizobium_sp_CCH4_A6
+		Afipia_birgiae_34632
+		Bradyrhizobium_sp_CCH10_C7
+		Afipia_massiliensis_LC387
+		Oligotropha_carboxidovorans_OM4
+		Oligotropha_carboxidovorans_OM5
+		Afipia_felis_ATCC_53690
+		Afipia_sp_1NLS2
+		Afipia_sp_Root123D2
+		Bradyrhizobium_sp_SEMIA_6399
+		Bradyrhizobium_elkanii_CCBAU_43297
+		Bradyrhizobium_elkanii_USDA_76
+		Bradyrhizobium_elkanii_USDA_94
+		Bradyrhizobium_elkanii_CCBAU_05737
+		Bradyrhizobium_elkanii_USDA_3259
+		Bradyrhizobium_elkanii_USDA_3254
+		Bradyrhizobium_sp_UFLA_03_321
+		Bradyrhizobium_sp_OHSU_III
+		Bradyrhizobium_sp_LTSPM299
+		Bradyrhizobium_sp_LTSP885
+		Bradyrhizobium_sp_th_b2
+		Bradyrhizobium_embrapense_SEMIA_6208
+		Bradyrhizobium_sp_ARR65
+		Bradyrhizobium_sp_Tv2a_2
+		Bradyrhizobium_sp_ORS_278
+		Bradyrhizobium_sp_STM_3809
+		Bradyrhizobium_sp_BTAi1
+		Bradyrhizobium_oligotrophicum_S58
+		Bradyrhizobium_sp_STM_3843
+		Bradyrhizobium_japonicum_is5
+		Bradyrhizobium_japonicum_in8p8
+		Bradyrhizobium_sp_Leaf396
+		Bradyrhizobium_liaoningense_CCNWSX0360
+		Bradyrhizobium_liaoningense_CCBAU_05525
+		Bradyrhizobium_liaoningense_CCBAU_83689
+		Bradyrhizobium_japonicum_USDA_135
+		Bradyrhizobium_sp_CCH5_F6
+		Bradyrhizobium_japonicum_UBMA197
+		Bradyrhizobium_sp_G22
+		Bradyrhizobium_japonicum_USDA_6
+		Bradyrhizobium_japonicum_USDA_38
+		Bradyrhizobium_japonicum_CCBAU_25435
+		Bradyrhizobium_japonicum_SEMIA_5079
+		Bradyrhizobium_japonicum_CCBAU_15618
+		Bradyrhizobium_japonicum_CCBAU_15517
+		Bradyrhizobium_japonicum_CCBAU_15354
+		Bradyrhizobium_japonicum_CCBAU_83623
+		Bradyrhizobium_japonicum_USDA_123
+		Bradyrhizobium_sp_URHA0013
+		Bradyrhizobium_sp_WSM1253
+		Bradyrhizobium_sp_WSM471
+		Bradyrhizobium_sp_WSM1417
+		Bradyrhizobium_canariense_UBMA171
+		Bradyrhizobium_sp_WSM4349
+		Bradyrhizobium_sp_S23321
+		Bradyrhizobium_sp_YR681
+		Bradyrhizobium_sp_LTSP857
+		Bradyrhizobium_sp_LTSP849
+		Bradyrhizobium_sp_WSM3983
+		Bradyrhizobium_sp_WSM2793
+		Bradyrhizobium_sp_CCBAU_15635
+		Bradyrhizobium_sp_CCBAU_15615
+		Bradyrhizobium_japonicum_USDA_4
+		Bradyrhizobium_sp_CCBAU_15544
+		Bradyrhizobium_sp_CCBAU_41267
+		Bradyrhizobium_japonicum_USDA_122
+		Bradyrhizobium_diazoefficiens_SEMIA_5080
+		Bradyrhizobium_diazoefficiens_USDA_110
+		Bradyrhizobium_diazoefficiens_USDA_122
+		Bradyrhizobium_sp_WSM2254
+		Bradyrhizobium_genosp_SA_4_str_CB756
+		Bradyrhizobium_sp_USDA_3384
+		Bradyrhizobium_japonicum_USDA_124
+		Bradyrhizobium_stylosanthis_BR_446
+		Bradyrhizobium_sp_CCGE_LA001
+		Bradyrhizobium_japonicum_22
+		Bradyrhizobium_sp_CCBAU_43298
+		Bradyrhizobium_yuanmingense_CCBAU_10071
+		Bradyrhizobium_yuanmingense_CCBAU_25021
+		Bradyrhizobium_yuanmingense_CCBAU_35157
+		Bradyrhizobium_sp_DOA9
+		Bradyrhizobium_yuanmingense_CCBAU_05623
+		Bradyrhizobium_sp_WSM1743
+		Bradyrhizobium_sp_AS23_2
+		Bradyrhizobium_sp_BR_10245
+		Bradyrhizobium_sp_Ec3_3
+		Bradyrhizobium_sp_Cp5_3
+		Bradyrhizobium_neotropicale_BR_10247
+		Bradyrhizobium_sp_Ai1a_2
+		Bradyrhizobium_elkanii_WSM2783
+		Bradyrhizobium_paxllaeri_LMTR_21
+		Bradyrhizobium_retamae_Ro19
+		Bradyrhizobium_sp_LMTR_3
+		Bradyrhizobium_elkanii_WSM1741
+		Bradyrhizobium_icense_LMTR_13
+		Bradyrhizobium_sp_URHA0002
+		Bradyrhizobium_sp_URHD0069
+		Rhodopseudomonas_palustris_BisB18
+		Rhodopseudomonas_palustris_BisA53
+		Rhodopseudomonas_palustris_HaA2
+		Rhodopseudomonas_palustris_ELI_1980
+		Rhodopseudomonas_palustris_CGA009
+		Rhodopseudomonas_palustris_TIE_1
+		Rhodopseudomonas_palustris_DX_1
+		Rhodopseudomonas_sp_AAP120
+		Rhodopseudomonas_palustris_BisB5
+		Tardiphaga_robiniae_Vaf_07
+		Nitrobacter_vulgaris_Ab1
+		Nitrobacter_winogradskyi_Nb_255
+		Afipia_sp_P52_10
+		Pseudorhodoplanes_sinuspersici_RIPI110
+		Pseudolabrys_sp_Root1462
+		Xanthobacteraceae_bacterium_501b
+		Ancylobacter_sp_FA202
+		Starkeya_novella_DSM_506
+		Bosea_sp_117
+		Xanthobacter_sp_126
+		Xanthobacter_sp_91
+		Xanthobacter_autotrophicus_Py2
+		Azorhizobium_doebereinerae_UFLA1_100
+		Azorhizobium_caulinodans_ORS_571
+		Methylopila_sp_M107
+		Methylopila_sp_73B
+		Kaistia_soli_DSM_19436
+		Kaistia_granuli_DSM_23481_Ko04
+		Pleomorphomonas_oryzae_DSM_16300
+		Mesorhizobium_prunaredense
+		Mesorhizobium_sp_WSM2561
+		Mesorhizobium_sp_L48C026A00
+		Mesorhizobium_sp_AA22
+		Mesorhizobium_sp_LSJC280B00
+		Mesorhizobium_sp_STM_4661
+		Mesorhizobium_amorphae_CCNWGS0123
+		Mesorhizobium_huakuii_7653R
+		Mesorhizobium_loti_NZP2037
+		Mesorhizobium_loti_MAFF303099
+		Mesorhizobium_loti_R7A
+		Mesorhizobium_sp_Root172
+		Mesorhizobium_erdmanii_USDA_3471
+		Mesorhizobium_australicum_WSM2073
+		Mesorhizobium_sp_LNHC220B00
+		Mesorhizobium_sp_WSM3626
+		Mesorhizobium_loti_CJ3sym
+		Mesorhizobium_loti_R88b
+		Mesorhizobium_sp_LNHC252B00
+		Mesorhizobium_ciceri_CMG6
+		Mesorhizobium_sp_WSM1293
+		Mesorhizobium_sp_WSM1497
+		Mesorhizobium_ciceri_CC1192
+		Mesorhizobium_ciceri_biovar_biserrulae_WSM1271
+		Mesorhizobium_ciceri_biovar_biserrulae_WSM1284
+		Mesorhizobium_sp_L2C084A000
+		Mesorhizobium_sp_Root695
+		Mesorhizobium_sp_Root102
+		Mesorhizobium_opportunistum_WSM2075
+		Mesorhizobium_sp_LNHC232B00
+		Mesorhizobium_sp_LNHC221B00
+		Mesorhizobium_sp_L103C131B0
+		Mesorhizobium_sp_L2C089B000
+		Mesorhizobium_sp_L2C054A000
+		Mesorhizobium_sp_L103C565B0
+		Mesorhizobium_sp_L2C085B000
+		Mesorhizobium_sp_LNJC374B00
+		Mesorhizobium_sp_LSHC426A00
+		Mesorhizobium_sp_LNJC372A00
+		Mesorhizobium_sp_L2C066B000
+		Mesorhizobium_sp_LNJC391B00
+		Mesorhizobium_sp_LSJC269B00
+		Mesorhizobium_sp_LNJC395A00
+		Mesorhizobium_sp_LNJC403B00
+		Mesorhizobium_sp_LNJC399B00
+		Mesorhizobium_sp_L2C067A000
+		Mesorhizobium_sp_LSHC432A00
+		Mesorhizobium_sp_LSHC440B00
+		Mesorhizobium_sp_LSHC422A00
+		Mesorhizobium_sp_L103C120A0
+		Mesorhizobium_plurifarium
+		Mesorhizobium_sp_LCM_4577
+		Mesorhizobium_sp_ORS3359
+		Mesorhizobium_sp_WSM3873
+		Mesorhizobium_sp_AA23
+		Mesorhizobium_sp_ORS3324
+		Mesorhizobium_sp_WSM3224
+		Mesorhizobium_sp_NBIMC_P2_C4
+		Mesorhizobium_sp_NBIMC_P2_C2
+		Mesorhizobium_sp_NBIMC_P2_C1
+		Mesorhizobium_sp_NBIMC_P2_C3
+		Mesorhizobium_sp_UASWS1009
+		Mesorhizobium_sp_1M_11
+		Mesorhizobium_sp_Root1471
+		Mesorhizobium_sp_Root554
+		Pseudaminobacter_manganicus_JH_7
+		Mesorhizobium_sp_Root552
+		Mesorhizobium_sp_Root157
+		Aminobacter_sp_Root100
+		Aminobacter_aminovorans_KCTC_2477
+		Hoeflea_sp_108
+		Mesorhizobium_alhagi_CCNWXJ12_2
+		Mesorhizobium_sp_F7
+		Mesorhizobium_sp_B7
+		Mesorhizobium_sp_LC103
+		Nitratireductor_indicus_C115
+		Nitratireductor_pacificus_pht_3B
+		Nitratireductor_aquibiodomus_EBB_35_1
+		Chelativorans_sp_BNC1
+		Brucella_abortus_863_67
+		Brucella_abortus_90_0962
+		Brucella_abortus_87_2211
+		Brucella_abortus_levi_gila
+		Brucella_abortus_88_226
+		Brucella_abortus_NI633
+		Brucella_abortus_F2_06_8
+		Brucella_abortus_I103_UK3_01_
+		Brucella_abortus_NI352
+		Brucella_abortus_NI422
+		Brucella_abortus_NI649
+		Brucella_abortus_CNGB_308
+		Brucella_abortus_NI593
+		Brucella_abortus_NI628
+		Brucella_abortus_NI645
+		Brucella_abortus_64_81
+		Brucella_abortus_01_0585
+		Brucella_abortus_F3_01_300
+		Brucella_abortus_CNGB_1011
+		Brucella_abortus_NI495a
+		Brucella_abortus_NI492
+		Brucella_abortus_CNGB_966
+		Brucella_abortus_A13334
+		Brucella_abortus_225_65
+		Brucella_abortus_64_108
+		Brucella_abortus_01_0065
+		Brucella_abortus_CNGB_1432
+		Brucella_abortus_CNGB_759
+		Brucella_abortus_B10_0091
+		Brucella_abortus_NI380
+		Brucella_abortus_B10_0973
+		Brucella_abortus_544
+		Brucella_abortus_NI518
+		Brucella_abortus_01_0648
+		Brucella_abortus_F10_05_11
+		Brucella_abortus_CNGB_436
+		Brucella_abortus_90_0737
+		Brucella_abortus_S19
+		Brucella_abortus_F1_06_B1
+		Brucella_abortus_85_1058
+		Brucella_abortus_NI274
+		Brucella_abortus_NI388
+		Brucella_abortus_NI240
+		Brucella_abortus_CNGB_752
+		Brucella_abortus_600_64
+		Brucella_abortus_NI622
+		Brucella_abortus_82_3893
+		Brucella_abortus_90_0775
+		Brucella_abortus_NI639
+		Brucella_abortus_84_26
+		Brucella_abortus_B10_0018
+		Brucella_abortus_93_1
+		Brucella_abortus_90_50
+		Brucella_abortus_NI613
+		Brucella_abortus_80_108
+		Brucella_abortus_94_1313
+		Brucella_abortus_84_0928
+		Brucella_abortus_87_0095
+		Brucella_abortus_90_1280
+		Brucella_abortus_bv_1_str_134
+		Brucella_abortus_88_19
+		Brucella_melitensis_16M13W
+		Brucella_abortus_bv_2_str_BCB034
+		Brucella_abortus_104M
+		Brucella_abortus_63_168
+		Brucella_abortus_85_140
+		Brucella_abortus_877_67
+		Brucella_abortus_63_144
+		Brucella_abortus_64_122
+		Brucella_abortus_80_102
+		Brucella_abortus_67_93
+		Brucella_abortus_R42_08
+		Brucella_abortus_93_2
+		Brucella_abortus_78_14
+		Brucella_abortus_80_28
+		Brucella_abortus_87_28
+		Brucella_abortus_F1_06_B21
+		Brucella_abortus_F6_05_2
+		Brucella_abortus_F6_05_9
+		Brucella_abortus_78_32
+		Brucella_abortus_88_217
+		Brucella_abortus_63_294
+		Brucella_melitensis_F6_05_6
+		Brucella_sp_CMUL_029
+		Brucella_sp_CMUL_08
+		Brucella_sp_CMUL_003
+		Brucella_sp_CMUL_036
+		Brucella_melitensis_M28
+		Brucella_melitensis_NI
+		Brucella_melitensis_F8_01_155
+		Brucella_melitensis_bv_3_str_128
+		Brucella_sp_CMUL_027
+		Brucella_melitensis_bv_2_str_63_9
+		Brucella_melitensis_UK37_05
+		Brucella_sp_CMUL_025
+		Brucella_melitensis_bv_1_str_BCB028
+		Brucella_sp_CMUL_010
+		Brucella_sp_CMUL_026
+		Brucella_melitensis_66_59
+		Brucella_sp_CMUL_004
+		Brucella_sp_CMUL_013
+		Brucella_melitensis_F2_06_6
+		Brucella_melitensis_BG2_S27_
+		Brucella_sp_CMUL_015
+		Brucella_melitensis_16M1W
+		Brucella_melitensis_Br_m_1268_11_Geo
+		Brucella_melitensis_bv_1_str_133
+		Brucella_melitensis_UK3_06
+		Brucella_sp_CMUL_024
+		Brucella_melitensis_bv_1_str_BCB033
+		Brucella_sp_CMUL_018
+		Brucella_melitensis_F10_06_16
+		Brucella_sp_CMUL_014
+		Brucella_melitensis_UK29_05
+		Brucella_melitensis_bv_3_BM_IND1
+		Brucella_melitensis_F1_06_B10
+		Brucella_melitensis_Uk24_06
+		Brucella_melitensis_UK22_04
+		Brucella_melitensis_UK23_06
+		Brucella_melitensis_UK14_06
+		Brucella_melitensis_UK19_04
+		Brucella_melitensis_F3_02
+		Brucella_melitensis_B115
+		Brucella_melitensis_CNGB_290
+		Brucella_melitensis_CNGB_1076
+		Brucella_melitensis_CNGB_1120
+		Brucella_melitensis_F15_06_7
+		Brucella_melitensis_F5_07_239A
+		Brucella_ovis_F8_05B
+		Brucella_ovis_IntaBari_2001_319_5096
+		Brucella_ovis_IntaBari_2008_114_542
+		Brucella_ovis_IntaBari_2002_82_58
+		Brucella_ovis_IntaBari_2006_46_332
+		Brucella_ovis_80_125
+		Brucella_ovis_IntaBari_2006_46_348
+		Brucella_ovis_IntaBari_2001_319_4082
+		Brucella_ovis_IntaBari_2010_47_871
+		Brucella_ovis_IntaBari_1993_758
+		Brucella_ovis_63_96
+		Brucella_ovis_81_8
+		Brucella_ovis_IntaBari_2010_47_268
+		Brucella_ovis_IntaBari_2009_88_4
+		Brucella_melitensis_S66
+		Brucella_suis_2004000577
+		Brucella_suis_1330
+		Brucella_suis_bv_1_str_BCB025
+		Brucella_suis_CNGB_247
+		Brucella_suis_CNGB_786
+		Brucella_suis_019
+		Brucella_suis_bv_1_str_S2
+		Brucella_canis_ATCC_23365
+		Brucella_canis_HSK_A52141
+		Brucella_canis_79_122
+		Brucella_canis_CNGB_513
+		Brucella_canis_SVA10
+		Brucella_canis_str_Oliveri
+		Brucella_canis_CNGB_1324
+		Brucella_canis_BCB018
+		Brucella_suis_F7_06_1
+		Brucella_suis_F7_06_2
+		Brucella_suis_F5_05_4
+		Brucella_suis_F4_06_146
+		Brucella_suis_F8_06_1
+		Brucella_suis_F8_06_3
+		Brucella_suis_92_63
+		Brucella_suis_F7_06_5
+		Brucella_suis_F9_06_1
+		Brucella_suis_F5_05_10
+		Brucella_microti_CCM_4915
+		Brucella_sp_F96_2
+		Brucella_sp_UK1_97
+		Brucella_sp_F23_97
+		Brucella_ceti_str_Cudo
+		Brucella_pinnipedialis_B2_94
+		Brucella_sp_UK5_01
+		Brucella_sp_F5_06
+		Brucella_ceti_TE10759_12
+		Brucella_sp_UK38_05
+		Brucella_sp_UK40_99
+		Brucella_sp_56_94
+		Brucella_sp_F8_99
+		Brucella_inopinata_BO1
+		Brucella_sp_09RB8471
+		Brucella_sp_09RB8910
+		Brucella_sp_NF_2653
+		Brucella_sp_BO2
+		Brucella_vulpis_F60
+		Brucella_sp_141012304
+		Ochrobactrum_anthropi_ATCC_49188
+		Ochrobactrum_sp_UNC390CL2Tsu3S39
+		Ochrobactrum_cytisi_IPA7_2
+		Ochrobactrum_intermedium_SA148
+		Ochrobactrum_intermedium_2745_2
+		Ochrobactrum_sp_EGD_AQ16
+		Ochrobactrum_intermedium_LMG_3301
+		Ochrobactrum_intermedium_M86
+		Ochrobactrum_sp_P6BS_III
+		Ochrobactrum_pseudogrignonense_K8
+		Ochrobactrum_sp_CDB2
+		Ochrobactrum_pituitosum_AA2
+		Ochrobactrum_rhizosphaerae_SJY1
+		Pseudochrobactrum_sp_B5
+		Pseudochrobactrum_sp_AO18b
+		Paramesorhizobium_deserti_A_3_E
+		Phyllobacterium_sp_UNC302MFCol5_2
+		Phyllobacterium_sp_YR531
+		Bartonella_sp_DB5_6
+		Bartonella_taylorii_8TBB
+		Bartonella_taylorii_IBS325
+		Bartonella_birtlesii_E4
+		Bartonella_birtlesii_IBS_325
+		Bartonella_birtlesii_LL_WM9
+		Bartonella_vinsonii_subsp_berkhoffii_str_Winnie
+		Bartonella_vinsonii_subsp_berkhoffii_str_Tweed
+		Bartonella_vinsonii_subsp_berkhoffii_ATCC_51672
+		Bartonella_alsatica_IBS_382
+		Bartonella_tribocorum_BM1374166
+		Bartonella_tribocorum_CIP_105476
+		Bartonella_elizabethae_BeUM
+		Bartonella_elizabethae_F9251_ATCC_49927
+		Bartonella_grahamii_as4aup
+		Bartonella_grahamii_ATCC_700132
+		Bartonella_rattimassiliensis_15908
+		Bartonella_henselae_JK_42
+		Bartonella_henselae_JK_53
+		Bartonella_henselae_str_Zeus
+		Bartonella_henselae_JK_41
+		Bartonella_henselae_JK_50
+		Bartonella_henselae_JK_51
+		Bartonella_henselae_str_Houston_1
+		Bartonella_henselae_U4
+		Bartonella_koehlerae_C_29
+		Bartonella_quintana_JK_19
+		Bartonella_quintana_JK_68
+		Bartonella_washoensis_Sb944nv
+		Bartonella_doshiae_NCTC_12862_ATCC_700133
+		Bartonella_melophagi_K_2C
+		Bartonella_schoenbuchensis_m07a
+		Bartonella_sp_WD12_1
+		Bartonella_bovis_m02
+		Bartonella_bovis_91_4
+		Bartonella_sp_JB63
+		Bartonella_clarridgeiae_73
+		Bartonella_clarridgeiae_ATCC_51734
+		Bartonella_tamiae_Th239
+		Bartonella_tamiae_Th307
+		Bartonella_apis_BBC0122
+		Rhizobium_sp_TBD182
+		Agrobacterium_sp_H13_3
+		Agrobacterium_sp_13_2099_1_2
+		Agrobacterium_tumefaciens_15_1187_1_2b
+		Agrobacterium_tumefaciens_15_1187_1_2a
+		Agrobacterium_tumefaciens_LBA4213_Ach5_
+		Agrobacterium_tumefaciens_N2_73
+		Agrobacterium_tumefaciens_15_174
+		Agrobacterium_tumefaciens_str_CFBP_5771
+		Rhizobium_sp_Root491
+		Agrobacterium_tumefaciens_P4
+		Agrobacterium_tumefaciens_WRT31
+		Agrobacterium_tumefaciens_5A
+		Agrobacterium_arsenijevicii_KFB_330
+		Rhizobium_nepotum_39_7
+		Agrobacterium_sp_LC34
+		Agrobacterium_sp_SUL3
+		Rhizobium_sp_Root651
+		Agrobacterium_fabrum_str_C58
+		Agrobacterium_tumefaciens_F2
+		Agrobacterium_tumefaciens_CCNWGS0286
+		Agrobacterium_tumefaciens_str_CFBP_5621
+		Agrobacterium_tumefaciens_B140_95
+		Agrobacterium_sp_UNC420CL41Cvi
+		Agrobacterium_sp_224MFTsu3_1
+		Agrobacterium_sp_LY4
+		Agrobacterium_sp_C13
+		Agrobacterium_sp_JL28
+		Agrobacterium_tumefaciens_GW4
+		Agrobacterium_sp_TS45
+		Agrobacterium_sp_D14
+		Agrobacterium_tumefaciens_15_172
+		Agrobacterium_sp_YIC_4121
+		Agrobacterium_tumefaciens_str_Cherry_2E_2_2
+		Agrobacterium_sp_YIC_5082
+		Rhizobium_sp_UR51a
+		Agrobacterium_sp_33MFTa1_1
+		Rhizobium_sp_GHKF11
+		Rhizobium_sp_IRBG74
+		Rhizobium_pusense_NRCPB10
+		Rhizobium_sp_S41
+		Rhizobium_sp_H41
+		Agrobacterium_sp_DSM_25559
+		Agrobacterium_sp_DSM_25558
+		Rhizobium_sp_Leaf262
+		Rhizobium_sp_Leaf155
+		Rhizobium_sp_Root564
+		Rhizobium_sp_RU33A
+		Rhizobium_sp_AAP116
+		Agrobacterium_sp_RAC06
+		Agrobacterium_albertimagni_AOL15
+		Rhizobium_sp_AAP43
+		Rhizobium_sp_Root274
+		Rhizobium_sp_Root1240
+		Rhizobium_sp_PDO1_076
+		Rhizobium_sp_RU36D
+		Rhizobium_taibaishanense_14971
+		Agrobacterium_vitis_T1_7
+		Agrobacterium_vitis_S4
+		Rhizobium_flavum_YW14
+		Rhizobium_sp_NT_26
+		Rhizobium_marinum_MGL06
+		Rhizobium_sp_CF080
+		Rhizobium_vignae_CCBAU_05176
+		Neorhizobium_galegae_bv_officinalis_bv_officinalis_str_HAMBI_1141
+		Neorhizobium_galegae_bv_orientalis_str_HAMBI_540
+		Rhizobium_sp_Leaf321
+		Rhizobium_sp_Leaf306
+		Rhizobium_sp_LC145
+		Rhizobium_sp_Root149
+		Rhizobium_leguminosarum_Vaf_108
+		Rhizobium_leguminosarum_bv_viciae_UPM1131
+		Rhizobium_leguminosarum_Vaf10
+		Rhizobium_laguerreae_FB206
+		Rhizobium_leguminosarum_bv_viciae_248
+		Rhizobium_leguminosarum_bv_viciae_TOM
+		Rhizobium_leguminosarum_bv_viciae_3841
+		Rhizobium_leguminosarum_bv_phaseoli_FA23
+		Rhizobium_leguminosarum_Vaf12
+		Rhizobium_leguminosarum_bv_trifolii_SRDI943
+		Rhizobium_leguminosarum_bv_trifolii_WSM1325
+		Rhizobium_sp_WYCCWR10014
+		Rhizobium_leguminosarum_bv_viciae_VF39
+		Rhizobium_leguminosarum_bv_trifolii_WSM1689
+		Rhizobium_leguminosarum_bv_viciae_WSM1455
+		Rhizobium_leguminosarum_bv_viciae_WSM1481
+		Rhizobium_leguminosarum_bv_trifolii_SRDI565
+		Rhizobium_leguminosarum_bv_viciae_RCAM_1026
+		Rhizobium_leguminosarum_bv_trifolii_TA1
+		Rhizobium_leguminosarum_bv_viciae_GB30
+		Rhizobium_leguminosarum_bv_viciae_Vc2
+		Rhizobium_leguminosarum_Vaf_46
+		Rhizobium_leguminosarum_bv_phaseoli_4292
+		Rhizobium_leguminosarum_bv_viciae_UPM1137
+		Rhizobium_leguminosarum_bv_trifolii_Rt24_2
+		Rhizobium_leguminosarum_bv_viciae_USDA_2370
+		Rhizobium_leguminosarum_bv_trifolii_CC283b
+		Rhizobium_gallicum_bv_gallicum_R602sp
+		Rhizobium_leguminosarum_bv_trifolii_CC278f
+		Rhizobium_sp_CCGE_510
+		Rhizobium_tropici_CF286
+		Rhizobium_sp_WYCCWR10015
+		Rhizobium_acidisoli_FH23
+		Rhizobium_leguminosarum_bv_trifolii_WSM597
+		Rhizobium_leguminosarum_bv_trifolii_WSM2304
+		Rhizobium_sp_N941
+		Rhizobium_sp_N541
+		Rhizobium_sp_N324
+		Rhizobium_ecuadorense_CNPSO_671
+		Rhizobium_sp_RSm_3
+		Rhizobium_leguminosarum_bv_trifolii_CB782
+		Rhizobium_leguminosarum_bv_trifolii_WSM2012
+		Rhizobium_leguminosarum_bv_trifolii_WSM2297
+		Rhizobium_etli_CIAT_894
+		Rhizobium_phaseoli_R723
+		Rhizobium_phaseoli_N261
+		Rhizobium_leguminosarum_bv_phaseoli_CCGM1
+		Rhizobium_phaseoli_R630
+		Rhizobium_phaseoli_N161
+		Rhizobium_phaseoli_N841
+		Rhizobium_phaseoli_R611
+		Rhizobium_phaseoli_R650
+		Rhizobium_phaseoli_N831
+		Rhizobium_phaseoli_R744
+		Rhizobium_phaseoli_N931
+		Rhizobium_phaseoli_N671
+		Rhizobium_phaseoli_N771
+		Rhizobium_phaseoli_R620
+		Rhizobium_etli_CIAT_652
+		Rhizobium_etli_CNPAF512
+		Rhizobium_phaseoli_Ch24_10
+		Rhizobium_bangladeshense_1002
+		Rhizobium_sophorae_CCBAU_03386
+		Rhizobium_etli_bv_phaseoli_str_IE4803
+		Rhizobium_etli_bv_mimosae_str_IE4771
+		Rhizobium_sp_N871
+		Rhizobium_etli_N561
+		Rhizobium_sp_N621
+		Rhizobium_sp_N6212
+		Rhizobium_sp_N1341
+		Rhizobium_sp_N741
+		Rhizobium_sp_N113
+		Rhizobium_sp_N731
+		Rhizobium_sp_N1314
+		Rhizobium_sp_NXC14
+		Rhizobium_etli_CFN_42
+		Rhizobium_etli_bv_mimosae_str_Mim1
+		Rhizobium_etli_NXC12
+		Rhizobium_bangladeshense_1017
+		Rhizobium_bangladeshense_1024
+		Rhizobium_aegyptiacum_950
+		Rhizobium_alamii_YR584
+		Rhizobium_sp_CF142
+		Rhizobium_sp_2MFCol3_1
+		Rhizobium_sp_YR528
+		Rhizobium_sp_YR519
+		Rhizobium_sp_Root708
+		Rhizobium_sp_Root1220
+		Rhizobium_sp_Root1203
+		Rhizobium_sp_AC44_96
+		Rhizobium_favelukesii_LPU83
+		Rhizobium_sp_CF048
+		Rhizobium_sp_OV201
+		Rhizobium_sp_CF122
+		Rhizobium_grahamii_CCGE_502
+		Rhizobium_sp_CF394
+		Rhizobium_sp_IBUN
+		Rhizobium_sp_BR10423
+		Rhizobium_sp_42MFCr_1
+		Rhizobium_mesoamericanum_STM3625
+		Rhizobium_mesoamericanum_STM6155
+		Rhizobium_gallicum_IE4872
+		Rhizobium_gallicum_bv_gallicum_R602
+		Rhizobium_etli_8C_3
+		Rhizobium_mongolense_USDA_1844
+		Rhizobium_sp_OK494
+		Rhizobium_sp_AC27_96
+		Rhizobium_sp_P44RR_XXIV
+		Agrobacterium_radiobacter_K84
+		Rhizobium_sp_AP16
+		Agrobacterium_sp_B133_95
+		Rhizobium_sp_YR060
+		Rhizobium_rhizogenes_NBRC_13257
+		Agrobacterium_sp_B131_95
+		Agrobacterium_sp_13_626
+		Rhizobium_freirei_PRF_81
+		Rhizobium_tropici_CIAT_899
+		Rhizobium_sp_YK2
+		Rhizobium_hainanense_CCBAU_57015
+		Rhizobium_leucaenae_USDA_9039
+		Rhizobium_leucaenae_CPAO_29_8
+		Sinorhizobium_fredii_CCBAU_83643
+		Sinorhizobium_fredii_CCBAU_83753
+		Sinorhizobium_fredii_CCBAU_83666
+		Sinorhizobium_fredii_CCBAU_45436
+		Sinorhizobium_fredii_CCBAU_05557
+		Sinorhizobium_fredii_GR64
+		Sinorhizobium_fredii_CCBAU_25509
+		Sinorhizobium_fredii_CCBAU_83622
+		Sinorhizobium_fredii_HH103
+		Sinorhizobium_fredii_USDA_205
+		Sinorhizobium_fredii_NGR234
+		Sinorhizobium_fredii_USDA_257
+		Ensifer_sp_BR816
+		Sinorhizobium_americanum_CFNEI_73
+		Sinorhizobium_americanum_CCGM7
+		Sinorhizobium_sp_CCBAU_05631
+		Sinorhizobium_meliloti_BL225C
+		Sinorhizobium_meliloti_BO21CC
+		Sinorhizobium_meliloti_GR4
+		Sinorhizobium_meliloti_2011
+		Sinorhizobium_meliloti_CIAM1775
+		Sinorhizobium_meliloti_SM11
+		Sinorhizobium_meliloti_GVPV12
+		Sinorhizobium_meliloti_Rm41
+		Sinorhizobium_meliloti_MVII_I
+		Sinorhizobium_meliloti_RRl128
+		Sinorhizobium_meliloti_AE608H
+		Sinorhizobium_meliloti_AK83
+		Sinorhizobium_meliloti_Mlalz_1
+		Sinorhizobium_meliloti_AK58
+		Sinorhizobium_meliloti_WSM1022
+		Sinorhizobium_meliloti_CCNWSX0020
+		Sinorhizobium_meliloti_4H41
+		Ensifer_sp_USDA_6670
+		Sinorhizobium_meliloti_WSM4191
+		Sinorhizobium_medicae_WSM419
+		Sinorhizobium_medicae_DI28
+		Sinorhizobium_medicae_WSM1115
+		Sinorhizobium_medicae_WSM244
+		Sinorhizobium_arboris_LMG_14919
+		Ensifer_sp_WSM1721
+		Sinorhizobium_sp_PC2
+		Ensifer_aridi_JNVU_TP6
+		Ensifer_sp_Root954
+		Sinorhizobium_sp_GW3
+		Ensifer_sp_Root74
+		Ensifer_sp_Root1298
+		Ensifer_sp_Root1312
+		Ensifer_sp_Root558
+		Ensifer_sp_Root423
+		Ensifer_sp_ZNC0028
+		Ensifer_adhaerens_L18
+		Ensifer_sp_LC11
+		Ensifer_sp_LC13
+		Ensifer_sp_LC499
+		Ensifer_sp_LC14
+		Sinorhizobium_sp_Sb3
+		Sinorhizobium_sp_GL28
+		Ensifer_sp_Root278
+		Ensifer_sp_LC163
+		Ensifer_sp_LC384
+		Ensifer_sp_LC54
+		Ensifer_sp_1H6
+		Ensifer_sp_Root258
+		Ensifer_sp_Root142
+		Ensifer_sp_Root231
+		Ensifer_sp_Root31
+		Ensifer_adhaerens_OV14
+		Ensifer_sp_Root1252
+		Ensifer_sp_Root127
+		Sinorhizobium_sp_A49
+		Sinorhizobium_sp_RAC02
+		Shinella_sp_HZN7
+		Shinella_sp_SUS2
+		Shinella_sp_GWS1
+		Rhizobium_sp_YR295
+		Rhizobium_sp_Root483D2
+		Rhizobium_sp_58
+		Rhizobium_sp_59
+		Rhizobium_sp_Root73
+		Rhizobium_sp_Root1204
+		Rhizobium_sp_Root1334
+		Rhizobium_sp_OK665
+		Rhizobium_sp_Leaf453
+		Rhizobium_sp_Leaf391
+		Rhizobium_sp_Root482
+		Rhizobium_sp_CF097
+		Rhizobium_giardinii_bv_giardinii_H152
+		Rhizobium_rhizosphaerae_RD15
+		Martelella_sp_AD_3
+		Martelella_mediterranea_DSM_17316_MACL11
+		Martelella_endophytica_YC6887
+		Hoeflea_sp_IMCC20628
+		Hoeflea_sp_BAL378
+		Hoeflea_olei_JC234
+		Hoeflea_phototrophica_DFL_43
+		Fulvimarina_pelagi_HTCC2506
+		Fulvimarina_pelagi_DSM_15513
+		Fulvimarina_manganoxydans_CGMCC_1_10972
+		Aurantimonas_sp_22II_16_19i
+		Aurantimonas_manganoxydans_SI85_9A1_DSM_21871
+		Aurantimonas_coralicida_DSM_14790
+		Aurantimonas_sp_Leaf443
+		Aureimonas_sp_Leaf454
+		Aureimonas_sp_Leaf427
+		Aureimonas_sp_AU12
+		Aureimonas_sp_AU22
+		Aureimonas_sp_Leaf324
+		Aureimonas_sp_AU4
+		Aureimonas_sp_D3
+		Aureimonas_sp_N4
+		Aureimonas_sp_AU40
+		Aureimonas_sp_AU20
+		Aureimonas_frigidaquae_JCM_14755
+		Aureimonas_altamirensis_DSM_21988
+		Nitratireductor_basaltis_RR3_28
+		Devosia_geojensis_BD_c194
+		Devosia_sp_Root436
+		Devosia_sp_Root635
+		Devosia_psychrophila_CGMCC_1_10210
+		Devosia_sp_LC5
+		Devosia_sp_Leaf420
+		Devosia_sp_Leaf64
+		Devosia_sp_Root685
+		Devosia_riboflavina_IFO13584
+		Devosia_soli_GH2_10
+		Devosia_sp_S37
+		Devosia_enhydra_ATCC_23634
+		Devosia_insulae_DS_56
+		Devosia_sp_Root105
+		Devosia_sp_Root413D1
+		Devosia_sp_A16
+		Devosia_sp_17_2_E_8
+		Devosia_sp_DBB001
+		Pelagibacterium_halotolerans_B2
+		Cucumibacter_marinus_DSM_18995
+		Maritalea_myrionectae_DSM_19524
+		Afifella_pfennigii_DSM_17143
+		Hyphomicrobium_sp_CS1GBMeth3
+		Hyphomicrobium_zavarzinii_ATCC_27496_ZV_622
+		Hyphomicrobium_sp_MC1
+		Hyphomicrobium_sp_802
+		Hyphomicrobium_sp_99
+		Hyphomicrobium_denitrificans_1NES1
+		Hyphomicrobium_denitrificans_ATCC_51888
+		Hyphomicrobium_sp_NDB2Meth4
+		Hyphomicrobium_sp_CS1BSMeth3
+		Parvibaculum_lavamentivorans_DS_1
+		Tepidicaulis_marinus_MA2
+		Terasakiella_pusilla_DSM_6293
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Methylobacterium_sp_Leaf361,
+		2	Methylobacterium_radiotolerans_JCM_2831,
+		3	Methylobacterium_sp_C1,
+		4	Methylobacterium_phyllosphaerae_CBMB27,
+		5	Methylobacterium_sp_UNCCL110,
+		6	Methylobacterium_sp_GXF4,
+		7	Methylobacterium_sp_GXS13,
+		8	Methylobacterium_sp_CCH5_D2,
+		9	Methylobacterium_sp_Leaf123,
+		10	Methylobacterium_extorquens_CM4,
+		11	Methylobacterium_sp_Leaf121,
+		12	Methylobacterium_extorquens_PSBB040,
+		13	Methylobacterium_zatmanii_PSBB041,
+		14	Methylobacterium_sp_Leaf122,
+		15	Methylobacterium_sp_Leaf92,
+		16	Methylobacterium_sp_Leaf119,
+		17	Methylobacterium_extorquens_PA1,
+		18	Methylobacterium_sp_Leaf90,
+		19	Methylobacterium_extorquens_DM4,
+		20	Methylobacterium_extorquens_AM1,
+		21	Methylobacterium_sp_AMS5,
+		22	Methylobacterium_populi_BJ001,
+		23	Methylobacterium_populi_CD11_7,
+		24	Methylobacterium_sp_Leaf456,
+		25	Methylobacterium_sp_Leaf106,
+		26	Methylobacterium_sp_88A,
+		27	Methylobacterium_sp_Leaf85,
+		28	Methylobacterium_sp_Leaf93,
+		29	Methylobacterium_sp_10,
+		30	Methylobacterium_sp_Leaf91,
+		31	Methylobacterium_sp_Leaf86,
+		32	Methylobacterium_sp_77,
+		33	Methylobacterium_sp_Leaf99,
+		34	Methylobacterium_sp_Leaf87,
+		35	Methylobacterium_sp_Leaf100,
+		36	Methylobacterium_sp_Leaf469,
+		37	Methylobacterium_sp_Leaf102,
+		38	Methylobacterium_sp_Leaf112,
+		39	Methylobacterium_sp_Leaf88,
+		40	Methylobacterium_sp_Leaf89,
+		41	Methylobacterium_sp_Leaf111,
+		42	Methylobacterium_sp_Leaf94,
+		43	Methylobacterium_sp_Leaf465,
+		44	Methylobacterium_sp_Leaf113,
+		45	Methylobacterium_sp_Leaf117,
+		46	Methylobacterium_sp_Leaf104,
+		47	Methylobacterium_sp_Leaf125,
+		48	Methylobacterium_sp_Leaf466,
+		49	Methylobacterium_sp_Leaf399,
+		50	Methylobacterium_sp_Leaf108,
+		51	Methylobacterium_platani_PMB02,
+		52	Methylobacterium_aquaticum_MA_22A,
+		53	Methylobacterium_sp_4_46,
+		54	Methylobacterium_nodulans_ORS_2060,
+		55	Microvirga_lotononidis_WSM3557,
+		56	Microvirga_vignae_BR3299,
+		57	Microvirga_massiliensis,
+		58	Salinarimonas_rosea_DSM_21201,
+		59	Chelatococcus_daeguensis_TAD1,
+		60	Chelatococcus_sambhunathii_DSM_18167,
+		61	Chelatococcus_sp_CO_6,
+		62	Chelatococcus_sp_GW1,
+		63	Bosea_sp_BIWAKO_01,
+		64	Bosea_sp_LC85,
+		65	Bosea_sp_WAO,
+		66	Bosea_vaviloviae_Vaf18,
+		67	Bosea_sp_RAC05,
+		68	Bosea_sp_Root381,
+		69	Bosea_sp_TND4EK4,
+		70	Bosea_sp_UNC402CLCol,
+		71	Bosea_thiooxidans_DSM_9653,
+		72	Methylosinus_sp_LW3,
+		73	Methylosinus_sp_R_45379,
+		74	Methylocystis_sp_LW5,
+		75	Methylosinus_sp_LW4,
+		76	Methylosinus_sp_PW1,
+		77	Methylosinus_trichosporium_OB3b,
+		78	Methylocystis_sp_SC2,
+		79	Methylocystis_rosea_SV97,
+		80	Methylocystis_sp_ATCC_49242_Rockwell,
+		81	Methyloferula_stellata_AR4_AR4T,
+		82	Methylocapsa_acidiphila_B2,
+		83	Methylocapsa_aurea_KYG_T,
+		84	Methylocella_silvestris_BL2,
+		85	Beijerinckia_indica_subsp_indica_ATCC_9039,
+		86	Labrys_sp_WJW,
+		87	Afipia_clevelandensis_ATCC_49720,
+		88	Bradyrhizobiaceae_bacterium_SG_6C,
+		89	Afipia_sp_NBIMC_P1_C1,
+		90	Afipia_sp_NBIMC_P1_C2,
+		91	Afipia_sp_NBIMC_P1_C3,
+		92	Afipia_broomeae_ATCC_49717,
+		93	Afipia_sp_OHSU_II_uncloned,
+		94	Afipia_sp_OHSU_I_C6,
+		95	Afipia_sp_OHSU_I_C4,
+		96	Afipia_sp_OHSU_II_C2,
+		97	Afipia_sp_OHSU_I_uncloned,
+		98	Afipia_sp_OHSU_II_C1,
+		99	Bradyrhizobium_sp_CCH4_A6,
+		100	Afipia_birgiae_34632,
+		101	Bradyrhizobium_sp_CCH10_C7,
+		102	Afipia_massiliensis_LC387,
+		103	Oligotropha_carboxidovorans_OM4,
+		104	Oligotropha_carboxidovorans_OM5,
+		105	Afipia_felis_ATCC_53690,
+		106	Afipia_sp_1NLS2,
+		107	Afipia_sp_Root123D2,
+		108	Bradyrhizobium_sp_SEMIA_6399,
+		109	Bradyrhizobium_elkanii_CCBAU_43297,
+		110	Bradyrhizobium_elkanii_USDA_76,
+		111	Bradyrhizobium_elkanii_USDA_94,
+		112	Bradyrhizobium_elkanii_CCBAU_05737,
+		113	Bradyrhizobium_elkanii_USDA_3259,
+		114	Bradyrhizobium_elkanii_USDA_3254,
+		115	Bradyrhizobium_sp_UFLA_03_321,
+		116	Bradyrhizobium_sp_OHSU_III,
+		117	Bradyrhizobium_sp_LTSPM299,
+		118	Bradyrhizobium_sp_LTSP885,
+		119	Bradyrhizobium_sp_th_b2,
+		120	Bradyrhizobium_embrapense_SEMIA_6208,
+		121	Bradyrhizobium_sp_ARR65,
+		122	Bradyrhizobium_sp_Tv2a_2,
+		123	Bradyrhizobium_sp_ORS_278,
+		124	Bradyrhizobium_sp_STM_3809,
+		125	Bradyrhizobium_sp_BTAi1,
+		126	Bradyrhizobium_oligotrophicum_S58,
+		127	Bradyrhizobium_sp_STM_3843,
+		128	Bradyrhizobium_japonicum_is5,
+		129	Bradyrhizobium_japonicum_in8p8,
+		130	Bradyrhizobium_sp_Leaf396,
+		131	Bradyrhizobium_liaoningense_CCNWSX0360,
+		132	Bradyrhizobium_liaoningense_CCBAU_05525,
+		133	Bradyrhizobium_liaoningense_CCBAU_83689,
+		134	Bradyrhizobium_japonicum_USDA_135,
+		135	Bradyrhizobium_sp_CCH5_F6,
+		136	Bradyrhizobium_japonicum_UBMA197,
+		137	Bradyrhizobium_sp_G22,
+		138	Bradyrhizobium_japonicum_USDA_6,
+		139	Bradyrhizobium_japonicum_USDA_38,
+		140	Bradyrhizobium_japonicum_CCBAU_25435,
+		141	Bradyrhizobium_japonicum_SEMIA_5079,
+		142	Bradyrhizobium_japonicum_CCBAU_15618,
+		143	Bradyrhizobium_japonicum_CCBAU_15517,
+		144	Bradyrhizobium_japonicum_CCBAU_15354,
+		145	Bradyrhizobium_japonicum_CCBAU_83623,
+		146	Bradyrhizobium_japonicum_USDA_123,
+		147	Bradyrhizobium_sp_URHA0013,
+		148	Bradyrhizobium_sp_WSM1253,
+		149	Bradyrhizobium_sp_WSM471,
+		150	Bradyrhizobium_sp_WSM1417,
+		151	Bradyrhizobium_canariense_UBMA171,
+		152	Bradyrhizobium_sp_WSM4349,
+		153	Bradyrhizobium_sp_S23321,
+		154	Bradyrhizobium_sp_YR681,
+		155	Bradyrhizobium_sp_LTSP857,
+		156	Bradyrhizobium_sp_LTSP849,
+		157	Bradyrhizobium_sp_WSM3983,
+		158	Bradyrhizobium_sp_WSM2793,
+		159	Bradyrhizobium_sp_CCBAU_15635,
+		160	Bradyrhizobium_sp_CCBAU_15615,
+		161	Bradyrhizobium_japonicum_USDA_4,
+		162	Bradyrhizobium_sp_CCBAU_15544,
+		163	Bradyrhizobium_sp_CCBAU_41267,
+		164	Bradyrhizobium_japonicum_USDA_122,
+		165	Bradyrhizobium_diazoefficiens_SEMIA_5080,
+		166	Bradyrhizobium_diazoefficiens_USDA_110,
+		167	Bradyrhizobium_diazoefficiens_USDA_122,
+		168	Bradyrhizobium_sp_WSM2254,
+		169	Bradyrhizobium_genosp_SA_4_str_CB756,
+		170	Bradyrhizobium_sp_USDA_3384,
+		171	Bradyrhizobium_japonicum_USDA_124,
+		172	Bradyrhizobium_stylosanthis_BR_446,
+		173	Bradyrhizobium_sp_CCGE_LA001,
+		174	Bradyrhizobium_japonicum_22,
+		175	Bradyrhizobium_sp_CCBAU_43298,
+		176	Bradyrhizobium_yuanmingense_CCBAU_10071,
+		177	Bradyrhizobium_yuanmingense_CCBAU_25021,
+		178	Bradyrhizobium_yuanmingense_CCBAU_35157,
+		179	Bradyrhizobium_sp_DOA9,
+		180	Bradyrhizobium_yuanmingense_CCBAU_05623,
+		181	Bradyrhizobium_sp_WSM1743,
+		182	Bradyrhizobium_sp_AS23_2,
+		183	Bradyrhizobium_sp_BR_10245,
+		184	Bradyrhizobium_sp_Ec3_3,
+		185	Bradyrhizobium_sp_Cp5_3,
+		186	Bradyrhizobium_neotropicale_BR_10247,
+		187	Bradyrhizobium_sp_Ai1a_2,
+		188	Bradyrhizobium_elkanii_WSM2783,
+		189	Bradyrhizobium_paxllaeri_LMTR_21,
+		190	Bradyrhizobium_retamae_Ro19,
+		191	Bradyrhizobium_sp_LMTR_3,
+		192	Bradyrhizobium_elkanii_WSM1741,
+		193	Bradyrhizobium_icense_LMTR_13,
+		194	Bradyrhizobium_sp_URHA0002,
+		195	Bradyrhizobium_sp_URHD0069,
+		196	Rhodopseudomonas_palustris_BisB18,
+		197	Rhodopseudomonas_palustris_BisA53,
+		198	Rhodopseudomonas_palustris_HaA2,
+		199	Rhodopseudomonas_palustris_ELI_1980,
+		200	Rhodopseudomonas_palustris_CGA009,
+		201	Rhodopseudomonas_palustris_TIE_1,
+		202	Rhodopseudomonas_palustris_DX_1,
+		203	Rhodopseudomonas_sp_AAP120,
+		204	Rhodopseudomonas_palustris_BisB5,
+		205	Tardiphaga_robiniae_Vaf_07,
+		206	Nitrobacter_vulgaris_Ab1,
+		207	Nitrobacter_winogradskyi_Nb_255,
+		208	Afipia_sp_P52_10,
+		209	Pseudorhodoplanes_sinuspersici_RIPI110,
+		210	Pseudolabrys_sp_Root1462,
+		211	Xanthobacteraceae_bacterium_501b,
+		212	Ancylobacter_sp_FA202,
+		213	Starkeya_novella_DSM_506,
+		214	Bosea_sp_117,
+		215	Xanthobacter_sp_126,
+		216	Xanthobacter_sp_91,
+		217	Xanthobacter_autotrophicus_Py2,
+		218	Azorhizobium_doebereinerae_UFLA1_100,
+		219	Azorhizobium_caulinodans_ORS_571,
+		220	Methylopila_sp_M107,
+		221	Methylopila_sp_73B,
+		222	Kaistia_soli_DSM_19436,
+		223	Kaistia_granuli_DSM_23481_Ko04,
+		224	Pleomorphomonas_oryzae_DSM_16300,
+		225	Mesorhizobium_prunaredense,
+		226	Mesorhizobium_sp_WSM2561,
+		227	Mesorhizobium_sp_L48C026A00,
+		228	Mesorhizobium_sp_AA22,
+		229	Mesorhizobium_sp_LSJC280B00,
+		230	Mesorhizobium_sp_STM_4661,
+		231	Mesorhizobium_amorphae_CCNWGS0123,
+		232	Mesorhizobium_huakuii_7653R,
+		233	Mesorhizobium_loti_NZP2037,
+		234	Mesorhizobium_loti_MAFF303099,
+		235	Mesorhizobium_loti_R7A,
+		236	Mesorhizobium_sp_Root172,
+		237	Mesorhizobium_erdmanii_USDA_3471,
+		238	Mesorhizobium_australicum_WSM2073,
+		239	Mesorhizobium_sp_LNHC220B00,
+		240	Mesorhizobium_sp_WSM3626,
+		241	Mesorhizobium_loti_CJ3sym,
+		242	Mesorhizobium_loti_R88b,
+		243	Mesorhizobium_sp_LNHC252B00,
+		244	Mesorhizobium_ciceri_CMG6,
+		245	Mesorhizobium_sp_WSM1293,
+		246	Mesorhizobium_sp_WSM1497,
+		247	Mesorhizobium_ciceri_CC1192,
+		248	Mesorhizobium_ciceri_biovar_biserrulae_WSM1271,
+		249	Mesorhizobium_ciceri_biovar_biserrulae_WSM1284,
+		250	Mesorhizobium_sp_L2C084A000,
+		251	Mesorhizobium_sp_Root695,
+		252	Mesorhizobium_sp_Root102,
+		253	Mesorhizobium_opportunistum_WSM2075,
+		254	Mesorhizobium_sp_LNHC232B00,
+		255	Mesorhizobium_sp_LNHC221B00,
+		256	Mesorhizobium_sp_L103C131B0,
+		257	Mesorhizobium_sp_L2C089B000,
+		258	Mesorhizobium_sp_L2C054A000,
+		259	Mesorhizobium_sp_L103C565B0,
+		260	Mesorhizobium_sp_L2C085B000,
+		261	Mesorhizobium_sp_LNJC374B00,
+		262	Mesorhizobium_sp_LSHC426A00,
+		263	Mesorhizobium_sp_LNJC372A00,
+		264	Mesorhizobium_sp_L2C066B000,
+		265	Mesorhizobium_sp_LNJC391B00,
+		266	Mesorhizobium_sp_LSJC269B00,
+		267	Mesorhizobium_sp_LNJC395A00,
+		268	Mesorhizobium_sp_LNJC403B00,
+		269	Mesorhizobium_sp_LNJC399B00,
+		270	Mesorhizobium_sp_L2C067A000,
+		271	Mesorhizobium_sp_LSHC432A00,
+		272	Mesorhizobium_sp_LSHC440B00,
+		273	Mesorhizobium_sp_LSHC422A00,
+		274	Mesorhizobium_sp_L103C120A0,
+		275	Mesorhizobium_plurifarium,
+		276	Mesorhizobium_sp_LCM_4577,
+		277	Mesorhizobium_sp_ORS3359,
+		278	Mesorhizobium_sp_WSM3873,
+		279	Mesorhizobium_sp_AA23,
+		280	Mesorhizobium_sp_ORS3324,
+		281	Mesorhizobium_sp_WSM3224,
+		282	Mesorhizobium_sp_NBIMC_P2_C4,
+		283	Mesorhizobium_sp_NBIMC_P2_C2,
+		284	Mesorhizobium_sp_NBIMC_P2_C1,
+		285	Mesorhizobium_sp_NBIMC_P2_C3,
+		286	Mesorhizobium_sp_UASWS1009,
+		287	Mesorhizobium_sp_1M_11,
+		288	Mesorhizobium_sp_Root1471,
+		289	Mesorhizobium_sp_Root554,
+		290	Pseudaminobacter_manganicus_JH_7,
+		291	Mesorhizobium_sp_Root552,
+		292	Mesorhizobium_sp_Root157,
+		293	Aminobacter_sp_Root100,
+		294	Aminobacter_aminovorans_KCTC_2477,
+		295	Hoeflea_sp_108,
+		296	Mesorhizobium_alhagi_CCNWXJ12_2,
+		297	Mesorhizobium_sp_F7,
+		298	Mesorhizobium_sp_B7,
+		299	Mesorhizobium_sp_LC103,
+		300	Nitratireductor_indicus_C115,
+		301	Nitratireductor_pacificus_pht_3B,
+		302	Nitratireductor_aquibiodomus_EBB_35_1,
+		303	Chelativorans_sp_BNC1,
+		304	Brucella_abortus_863_67,
+		305	Brucella_abortus_90_0962,
+		306	Brucella_abortus_87_2211,
+		307	Brucella_abortus_levi_gila,
+		308	Brucella_abortus_88_226,
+		309	Brucella_abortus_NI633,
+		310	Brucella_abortus_F2_06_8,
+		311	Brucella_abortus_I103_UK3_01_,
+		312	Brucella_abortus_NI352,
+		313	Brucella_abortus_NI422,
+		314	Brucella_abortus_NI649,
+		315	Brucella_abortus_CNGB_308,
+		316	Brucella_abortus_NI593,
+		317	Brucella_abortus_NI628,
+		318	Brucella_abortus_NI645,
+		319	Brucella_abortus_64_81,
+		320	Brucella_abortus_01_0585,
+		321	Brucella_abortus_F3_01_300,
+		322	Brucella_abortus_CNGB_1011,
+		323	Brucella_abortus_NI495a,
+		324	Brucella_abortus_NI492,
+		325	Brucella_abortus_CNGB_966,
+		326	Brucella_abortus_A13334,
+		327	Brucella_abortus_225_65,
+		328	Brucella_abortus_64_108,
+		329	Brucella_abortus_01_0065,
+		330	Brucella_abortus_CNGB_1432,
+		331	Brucella_abortus_CNGB_759,
+		332	Brucella_abortus_B10_0091,
+		333	Brucella_abortus_NI380,
+		334	Brucella_abortus_B10_0973,
+		335	Brucella_abortus_544,
+		336	Brucella_abortus_NI518,
+		337	Brucella_abortus_01_0648,
+		338	Brucella_abortus_F10_05_11,
+		339	Brucella_abortus_CNGB_436,
+		340	Brucella_abortus_90_0737,
+		341	Brucella_abortus_S19,
+		342	Brucella_abortus_F1_06_B1,
+		343	Brucella_abortus_85_1058,
+		344	Brucella_abortus_NI274,
+		345	Brucella_abortus_NI388,
+		346	Brucella_abortus_NI240,
+		347	Brucella_abortus_CNGB_752,
+		348	Brucella_abortus_600_64,
+		349	Brucella_abortus_NI622,
+		350	Brucella_abortus_82_3893,
+		351	Brucella_abortus_90_0775,
+		352	Brucella_abortus_NI639,
+		353	Brucella_abortus_84_26,
+		354	Brucella_abortus_B10_0018,
+		355	Brucella_abortus_93_1,
+		356	Brucella_abortus_90_50,
+		357	Brucella_abortus_NI613,
+		358	Brucella_abortus_80_108,
+		359	Brucella_abortus_94_1313,
+		360	Brucella_abortus_84_0928,
+		361	Brucella_abortus_87_0095,
+		362	Brucella_abortus_90_1280,
+		363	Brucella_abortus_bv_1_str_134,
+		364	Brucella_abortus_88_19,
+		365	Brucella_melitensis_16M13W,
+		366	Brucella_abortus_bv_2_str_BCB034,
+		367	Brucella_abortus_104M,
+		368	Brucella_abortus_63_168,
+		369	Brucella_abortus_85_140,
+		370	Brucella_abortus_877_67,
+		371	Brucella_abortus_63_144,
+		372	Brucella_abortus_64_122,
+		373	Brucella_abortus_80_102,
+		374	Brucella_abortus_67_93,
+		375	Brucella_abortus_R42_08,
+		376	Brucella_abortus_93_2,
+		377	Brucella_abortus_78_14,
+		378	Brucella_abortus_80_28,
+		379	Brucella_abortus_87_28,
+		380	Brucella_abortus_F1_06_B21,
+		381	Brucella_abortus_F6_05_2,
+		382	Brucella_abortus_F6_05_9,
+		383	Brucella_abortus_78_32,
+		384	Brucella_abortus_88_217,
+		385	Brucella_abortus_63_294,
+		386	Brucella_melitensis_F6_05_6,
+		387	Brucella_sp_CMUL_029,
+		388	Brucella_sp_CMUL_08,
+		389	Brucella_sp_CMUL_003,
+		390	Brucella_sp_CMUL_036,
+		391	Brucella_melitensis_M28,
+		392	Brucella_melitensis_NI,
+		393	Brucella_melitensis_F8_01_155,
+		394	Brucella_melitensis_bv_3_str_128,
+		395	Brucella_sp_CMUL_027,
+		396	Brucella_melitensis_bv_2_str_63_9,
+		397	Brucella_melitensis_UK37_05,
+		398	Brucella_sp_CMUL_025,
+		399	Brucella_melitensis_bv_1_str_BCB028,
+		400	Brucella_sp_CMUL_010,
+		401	Brucella_sp_CMUL_026,
+		402	Brucella_melitensis_66_59,
+		403	Brucella_sp_CMUL_004,
+		404	Brucella_sp_CMUL_013,
+		405	Brucella_melitensis_F2_06_6,
+		406	Brucella_melitensis_BG2_S27_,
+		407	Brucella_sp_CMUL_015,
+		408	Brucella_melitensis_16M1W,
+		409	Brucella_melitensis_Br_m_1268_11_Geo,
+		410	Brucella_melitensis_bv_1_str_133,
+		411	Brucella_melitensis_UK3_06,
+		412	Brucella_sp_CMUL_024,
+		413	Brucella_melitensis_bv_1_str_BCB033,
+		414	Brucella_sp_CMUL_018,
+		415	Brucella_melitensis_F10_06_16,
+		416	Brucella_sp_CMUL_014,
+		417	Brucella_melitensis_UK29_05,
+		418	Brucella_melitensis_bv_3_BM_IND1,
+		419	Brucella_melitensis_F1_06_B10,
+		420	Brucella_melitensis_Uk24_06,
+		421	Brucella_melitensis_UK22_04,
+		422	Brucella_melitensis_UK23_06,
+		423	Brucella_melitensis_UK14_06,
+		424	Brucella_melitensis_UK19_04,
+		425	Brucella_melitensis_F3_02,
+		426	Brucella_melitensis_B115,
+		427	Brucella_melitensis_CNGB_290,
+		428	Brucella_melitensis_CNGB_1076,
+		429	Brucella_melitensis_CNGB_1120,
+		430	Brucella_melitensis_F15_06_7,
+		431	Brucella_melitensis_F5_07_239A,
+		432	Brucella_ovis_F8_05B,
+		433	Brucella_ovis_IntaBari_2001_319_5096,
+		434	Brucella_ovis_IntaBari_2008_114_542,
+		435	Brucella_ovis_IntaBari_2002_82_58,
+		436	Brucella_ovis_IntaBari_2006_46_332,
+		437	Brucella_ovis_80_125,
+		438	Brucella_ovis_IntaBari_2006_46_348,
+		439	Brucella_ovis_IntaBari_2001_319_4082,
+		440	Brucella_ovis_IntaBari_2010_47_871,
+		441	Brucella_ovis_IntaBari_1993_758,
+		442	Brucella_ovis_63_96,
+		443	Brucella_ovis_81_8,
+		444	Brucella_ovis_IntaBari_2010_47_268,
+		445	Brucella_ovis_IntaBari_2009_88_4,
+		446	Brucella_melitensis_S66,
+		447	Brucella_suis_2004000577,
+		448	Brucella_suis_1330,
+		449	Brucella_suis_bv_1_str_BCB025,
+		450	Brucella_suis_CNGB_247,
+		451	Brucella_suis_CNGB_786,
+		452	Brucella_suis_019,
+		453	Brucella_suis_bv_1_str_S2,
+		454	Brucella_canis_ATCC_23365,
+		455	Brucella_canis_HSK_A52141,
+		456	Brucella_canis_79_122,
+		457	Brucella_canis_CNGB_513,
+		458	Brucella_canis_SVA10,
+		459	Brucella_canis_str_Oliveri,
+		460	Brucella_canis_CNGB_1324,
+		461	Brucella_canis_BCB018,
+		462	Brucella_suis_F7_06_1,
+		463	Brucella_suis_F7_06_2,
+		464	Brucella_suis_F5_05_4,
+		465	Brucella_suis_F4_06_146,
+		466	Brucella_suis_F8_06_1,
+		467	Brucella_suis_F8_06_3,
+		468	Brucella_suis_92_63,
+		469	Brucella_suis_F7_06_5,
+		470	Brucella_suis_F9_06_1,
+		471	Brucella_suis_F5_05_10,
+		472	Brucella_microti_CCM_4915,
+		473	Brucella_sp_F96_2,
+		474	Brucella_sp_UK1_97,
+		475	Brucella_sp_F23_97,
+		476	Brucella_ceti_str_Cudo,
+		477	Brucella_pinnipedialis_B2_94,
+		478	Brucella_sp_UK5_01,
+		479	Brucella_sp_F5_06,
+		480	Brucella_ceti_TE10759_12,
+		481	Brucella_sp_UK38_05,
+		482	Brucella_sp_UK40_99,
+		483	Brucella_sp_56_94,
+		484	Brucella_sp_F8_99,
+		485	Brucella_inopinata_BO1,
+		486	Brucella_sp_09RB8471,
+		487	Brucella_sp_09RB8910,
+		488	Brucella_sp_NF_2653,
+		489	Brucella_sp_BO2,
+		490	Brucella_vulpis_F60,
+		491	Brucella_sp_141012304,
+		492	Ochrobactrum_anthropi_ATCC_49188,
+		493	Ochrobactrum_sp_UNC390CL2Tsu3S39,
+		494	Ochrobactrum_cytisi_IPA7_2,
+		495	Ochrobactrum_intermedium_SA148,
+		496	Ochrobactrum_intermedium_2745_2,
+		497	Ochrobactrum_sp_EGD_AQ16,
+		498	Ochrobactrum_intermedium_LMG_3301,
+		499	Ochrobactrum_intermedium_M86,
+		500	Ochrobactrum_sp_P6BS_III,
+		501	Ochrobactrum_pseudogrignonense_K8,
+		502	Ochrobactrum_sp_CDB2,
+		503	Ochrobactrum_pituitosum_AA2,
+		504	Ochrobactrum_rhizosphaerae_SJY1,
+		505	Pseudochrobactrum_sp_B5,
+		506	Pseudochrobactrum_sp_AO18b,
+		507	Paramesorhizobium_deserti_A_3_E,
+		508	Phyllobacterium_sp_UNC302MFCol5_2,
+		509	Phyllobacterium_sp_YR531,
+		510	Bartonella_sp_DB5_6,
+		511	Bartonella_taylorii_8TBB,
+		512	Bartonella_taylorii_IBS325,
+		513	Bartonella_birtlesii_E4,
+		514	Bartonella_birtlesii_IBS_325,
+		515	Bartonella_birtlesii_LL_WM9,
+		516	Bartonella_vinsonii_subsp_berkhoffii_str_Winnie,
+		517	Bartonella_vinsonii_subsp_berkhoffii_str_Tweed,
+		518	Bartonella_vinsonii_subsp_berkhoffii_ATCC_51672,
+		519	Bartonella_alsatica_IBS_382,
+		520	Bartonella_tribocorum_BM1374166,
+		521	Bartonella_tribocorum_CIP_105476,
+		522	Bartonella_elizabethae_BeUM,
+		523	Bartonella_elizabethae_F9251_ATCC_49927,
+		524	Bartonella_grahamii_as4aup,
+		525	Bartonella_grahamii_ATCC_700132,
+		526	Bartonella_rattimassiliensis_15908,
+		527	Bartonella_henselae_JK_42,
+		528	Bartonella_henselae_JK_53,
+		529	Bartonella_henselae_str_Zeus,
+		530	Bartonella_henselae_JK_41,
+		531	Bartonella_henselae_JK_50,
+		532	Bartonella_henselae_JK_51,
+		533	Bartonella_henselae_str_Houston_1,
+		534	Bartonella_henselae_U4,
+		535	Bartonella_koehlerae_C_29,
+		536	Bartonella_quintana_JK_19,
+		537	Bartonella_quintana_JK_68,
+		538	Bartonella_washoensis_Sb944nv,
+		539	Bartonella_doshiae_NCTC_12862_ATCC_700133,
+		540	Bartonella_melophagi_K_2C,
+		541	Bartonella_schoenbuchensis_m07a,
+		542	Bartonella_sp_WD12_1,
+		543	Bartonella_bovis_m02,
+		544	Bartonella_bovis_91_4,
+		545	Bartonella_sp_JB63,
+		546	Bartonella_clarridgeiae_73,
+		547	Bartonella_clarridgeiae_ATCC_51734,
+		548	Bartonella_tamiae_Th239,
+		549	Bartonella_tamiae_Th307,
+		550	Bartonella_apis_BBC0122,
+		551	Rhizobium_sp_TBD182,
+		552	Agrobacterium_sp_H13_3,
+		553	Agrobacterium_sp_13_2099_1_2,
+		554	Agrobacterium_tumefaciens_15_1187_1_2b,
+		555	Agrobacterium_tumefaciens_15_1187_1_2a,
+		556	Agrobacterium_tumefaciens_LBA4213_Ach5_,
+		557	Agrobacterium_tumefaciens_N2_73,
+		558	Agrobacterium_tumefaciens_15_174,
+		559	Agrobacterium_tumefaciens_str_CFBP_5771,
+		560	Rhizobium_sp_Root491,
+		561	Agrobacterium_tumefaciens_P4,
+		562	Agrobacterium_tumefaciens_WRT31,
+		563	Agrobacterium_tumefaciens_5A,
+		564	Agrobacterium_arsenijevicii_KFB_330,
+		565	Rhizobium_nepotum_39_7,
+		566	Agrobacterium_sp_LC34,
+		567	Agrobacterium_sp_SUL3,
+		568	Rhizobium_sp_Root651,
+		569	Agrobacterium_fabrum_str_C58,
+		570	Agrobacterium_tumefaciens_F2,
+		571	Agrobacterium_tumefaciens_CCNWGS0286,
+		572	Agrobacterium_tumefaciens_str_CFBP_5621,
+		573	Agrobacterium_tumefaciens_B140_95,
+		574	Agrobacterium_sp_UNC420CL41Cvi,
+		575	Agrobacterium_sp_224MFTsu3_1,
+		576	Agrobacterium_sp_LY4,
+		577	Agrobacterium_sp_C13,
+		578	Agrobacterium_sp_JL28,
+		579	Agrobacterium_tumefaciens_GW4,
+		580	Agrobacterium_sp_TS45,
+		581	Agrobacterium_sp_D14,
+		582	Agrobacterium_tumefaciens_15_172,
+		583	Agrobacterium_sp_YIC_4121,
+		584	Agrobacterium_tumefaciens_str_Cherry_2E_2_2,
+		585	Agrobacterium_sp_YIC_5082,
+		586	Rhizobium_sp_UR51a,
+		587	Agrobacterium_sp_33MFTa1_1,
+		588	Rhizobium_sp_GHKF11,
+		589	Rhizobium_sp_IRBG74,
+		590	Rhizobium_pusense_NRCPB10,
+		591	Rhizobium_sp_S41,
+		592	Rhizobium_sp_H41,
+		593	Agrobacterium_sp_DSM_25559,
+		594	Agrobacterium_sp_DSM_25558,
+		595	Rhizobium_sp_Leaf262,
+		596	Rhizobium_sp_Leaf155,
+		597	Rhizobium_sp_Root564,
+		598	Rhizobium_sp_RU33A,
+		599	Rhizobium_sp_AAP116,
+		600	Agrobacterium_sp_RAC06,
+		601	Agrobacterium_albertimagni_AOL15,
+		602	Rhizobium_sp_AAP43,
+		603	Rhizobium_sp_Root274,
+		604	Rhizobium_sp_Root1240,
+		605	Rhizobium_sp_PDO1_076,
+		606	Rhizobium_sp_RU36D,
+		607	Rhizobium_taibaishanense_14971,
+		608	Agrobacterium_vitis_T1_7,
+		609	Agrobacterium_vitis_S4,
+		610	Rhizobium_flavum_YW14,
+		611	Rhizobium_sp_NT_26,
+		612	Rhizobium_marinum_MGL06,
+		613	Rhizobium_sp_CF080,
+		614	Rhizobium_vignae_CCBAU_05176,
+		615	Neorhizobium_galegae_bv_officinalis_bv_officinalis_str_HAMBI_1141,
+		616	Neorhizobium_galegae_bv_orientalis_str_HAMBI_540,
+		617	Rhizobium_sp_Leaf321,
+		618	Rhizobium_sp_Leaf306,
+		619	Rhizobium_sp_LC145,
+		620	Rhizobium_sp_Root149,
+		621	Rhizobium_leguminosarum_Vaf_108,
+		622	Rhizobium_leguminosarum_bv_viciae_UPM1131,
+		623	Rhizobium_leguminosarum_Vaf10,
+		624	Rhizobium_laguerreae_FB206,
+		625	Rhizobium_leguminosarum_bv_viciae_248,
+		626	Rhizobium_leguminosarum_bv_viciae_TOM,
+		627	Rhizobium_leguminosarum_bv_viciae_3841,
+		628	Rhizobium_leguminosarum_bv_phaseoli_FA23,
+		629	Rhizobium_leguminosarum_Vaf12,
+		630	Rhizobium_leguminosarum_bv_trifolii_SRDI943,
+		631	Rhizobium_leguminosarum_bv_trifolii_WSM1325,
+		632	Rhizobium_sp_WYCCWR10014,
+		633	Rhizobium_leguminosarum_bv_viciae_VF39,
+		634	Rhizobium_leguminosarum_bv_trifolii_WSM1689,
+		635	Rhizobium_leguminosarum_bv_viciae_WSM1455,
+		636	Rhizobium_leguminosarum_bv_viciae_WSM1481,
+		637	Rhizobium_leguminosarum_bv_trifolii_SRDI565,
+		638	Rhizobium_leguminosarum_bv_viciae_RCAM_1026,
+		639	Rhizobium_leguminosarum_bv_trifolii_TA1,
+		640	Rhizobium_leguminosarum_bv_viciae_GB30,
+		641	Rhizobium_leguminosarum_bv_viciae_Vc2,
+		642	Rhizobium_leguminosarum_Vaf_46,
+		643	Rhizobium_leguminosarum_bv_phaseoli_4292,
+		644	Rhizobium_leguminosarum_bv_viciae_UPM1137,
+		645	Rhizobium_leguminosarum_bv_trifolii_Rt24_2,
+		646	Rhizobium_leguminosarum_bv_viciae_USDA_2370,
+		647	Rhizobium_leguminosarum_bv_trifolii_CC283b,
+		648	Rhizobium_gallicum_bv_gallicum_R602sp,
+		649	Rhizobium_leguminosarum_bv_trifolii_CC278f,
+		650	Rhizobium_sp_CCGE_510,
+		651	Rhizobium_tropici_CF286,
+		652	Rhizobium_sp_WYCCWR10015,
+		653	Rhizobium_acidisoli_FH23,
+		654	Rhizobium_leguminosarum_bv_trifolii_WSM597,
+		655	Rhizobium_leguminosarum_bv_trifolii_WSM2304,
+		656	Rhizobium_sp_N941,
+		657	Rhizobium_sp_N541,
+		658	Rhizobium_sp_N324,
+		659	Rhizobium_ecuadorense_CNPSO_671,
+		660	Rhizobium_sp_RSm_3,
+		661	Rhizobium_leguminosarum_bv_trifolii_CB782,
+		662	Rhizobium_leguminosarum_bv_trifolii_WSM2012,
+		663	Rhizobium_leguminosarum_bv_trifolii_WSM2297,
+		664	Rhizobium_etli_CIAT_894,
+		665	Rhizobium_phaseoli_R723,
+		666	Rhizobium_phaseoli_N261,
+		667	Rhizobium_leguminosarum_bv_phaseoli_CCGM1,
+		668	Rhizobium_phaseoli_R630,
+		669	Rhizobium_phaseoli_N161,
+		670	Rhizobium_phaseoli_N841,
+		671	Rhizobium_phaseoli_R611,
+		672	Rhizobium_phaseoli_R650,
+		673	Rhizobium_phaseoli_N831,
+		674	Rhizobium_phaseoli_R744,
+		675	Rhizobium_phaseoli_N931,
+		676	Rhizobium_phaseoli_N671,
+		677	Rhizobium_phaseoli_N771,
+		678	Rhizobium_phaseoli_R620,
+		679	Rhizobium_etli_CIAT_652,
+		680	Rhizobium_etli_CNPAF512,
+		681	Rhizobium_phaseoli_Ch24_10,
+		682	Rhizobium_bangladeshense_1002,
+		683	Rhizobium_sophorae_CCBAU_03386,
+		684	Rhizobium_etli_bv_phaseoli_str_IE4803,
+		685	Rhizobium_etli_bv_mimosae_str_IE4771,
+		686	Rhizobium_sp_N871,
+		687	Rhizobium_etli_N561,
+		688	Rhizobium_sp_N621,
+		689	Rhizobium_sp_N6212,
+		690	Rhizobium_sp_N1341,
+		691	Rhizobium_sp_N741,
+		692	Rhizobium_sp_N113,
+		693	Rhizobium_sp_N731,
+		694	Rhizobium_sp_N1314,
+		695	Rhizobium_sp_NXC14,
+		696	Rhizobium_etli_CFN_42,
+		697	Rhizobium_etli_bv_mimosae_str_Mim1,
+		698	Rhizobium_etli_NXC12,
+		699	Rhizobium_bangladeshense_1017,
+		700	Rhizobium_bangladeshense_1024,
+		701	Rhizobium_aegyptiacum_950,
+		702	Rhizobium_alamii_YR584,
+		703	Rhizobium_sp_CF142,
+		704	Rhizobium_sp_2MFCol3_1,
+		705	Rhizobium_sp_YR528,
+		706	Rhizobium_sp_YR519,
+		707	Rhizobium_sp_Root708,
+		708	Rhizobium_sp_Root1220,
+		709	Rhizobium_sp_Root1203,
+		710	Rhizobium_sp_AC44_96,
+		711	Rhizobium_favelukesii_LPU83,
+		712	Rhizobium_sp_CF048,
+		713	Rhizobium_sp_OV201,
+		714	Rhizobium_sp_CF122,
+		715	Rhizobium_grahamii_CCGE_502,
+		716	Rhizobium_sp_CF394,
+		717	Rhizobium_sp_IBUN,
+		718	Rhizobium_sp_BR10423,
+		719	Rhizobium_sp_42MFCr_1,
+		720	Rhizobium_mesoamericanum_STM3625,
+		721	Rhizobium_mesoamericanum_STM6155,
+		722	Rhizobium_gallicum_IE4872,
+		723	Rhizobium_gallicum_bv_gallicum_R602,
+		724	Rhizobium_etli_8C_3,
+		725	Rhizobium_mongolense_USDA_1844,
+		726	Rhizobium_sp_OK494,
+		727	Rhizobium_sp_AC27_96,
+		728	Rhizobium_sp_P44RR_XXIV,
+		729	Agrobacterium_radiobacter_K84,
+		730	Rhizobium_sp_AP16,
+		731	Agrobacterium_sp_B133_95,
+		732	Rhizobium_sp_YR060,
+		733	Rhizobium_rhizogenes_NBRC_13257,
+		734	Agrobacterium_sp_B131_95,
+		735	Agrobacterium_sp_13_626,
+		736	Rhizobium_freirei_PRF_81,
+		737	Rhizobium_tropici_CIAT_899,
+		738	Rhizobium_sp_YK2,
+		739	Rhizobium_hainanense_CCBAU_57015,
+		740	Rhizobium_leucaenae_USDA_9039,
+		741	Rhizobium_leucaenae_CPAO_29_8,
+		742	Sinorhizobium_fredii_CCBAU_83643,
+		743	Sinorhizobium_fredii_CCBAU_83753,
+		744	Sinorhizobium_fredii_CCBAU_83666,
+		745	Sinorhizobium_fredii_CCBAU_45436,
+		746	Sinorhizobium_fredii_CCBAU_05557,
+		747	Sinorhizobium_fredii_GR64,
+		748	Sinorhizobium_fredii_CCBAU_25509,
+		749	Sinorhizobium_fredii_CCBAU_83622,
+		750	Sinorhizobium_fredii_HH103,
+		751	Sinorhizobium_fredii_USDA_205,
+		752	Sinorhizobium_fredii_NGR234,
+		753	Sinorhizobium_fredii_USDA_257,
+		754	Ensifer_sp_BR816,
+		755	Sinorhizobium_americanum_CFNEI_73,
+		756	Sinorhizobium_americanum_CCGM7,
+		757	Sinorhizobium_sp_CCBAU_05631,
+		758	Sinorhizobium_meliloti_BL225C,
+		759	Sinorhizobium_meliloti_BO21CC,
+		760	Sinorhizobium_meliloti_GR4,
+		761	Sinorhizobium_meliloti_2011,
+		762	Sinorhizobium_meliloti_CIAM1775,
+		763	Sinorhizobium_meliloti_SM11,
+		764	Sinorhizobium_meliloti_GVPV12,
+		765	Sinorhizobium_meliloti_Rm41,
+		766	Sinorhizobium_meliloti_MVII_I,
+		767	Sinorhizobium_meliloti_RRl128,
+		768	Sinorhizobium_meliloti_AE608H,
+		769	Sinorhizobium_meliloti_AK83,
+		770	Sinorhizobium_meliloti_Mlalz_1,
+		771	Sinorhizobium_meliloti_AK58,
+		772	Sinorhizobium_meliloti_WSM1022,
+		773	Sinorhizobium_meliloti_CCNWSX0020,
+		774	Sinorhizobium_meliloti_4H41,
+		775	Ensifer_sp_USDA_6670,
+		776	Sinorhizobium_meliloti_WSM4191,
+		777	Sinorhizobium_medicae_WSM419,
+		778	Sinorhizobium_medicae_DI28,
+		779	Sinorhizobium_medicae_WSM1115,
+		780	Sinorhizobium_medicae_WSM244,
+		781	Sinorhizobium_arboris_LMG_14919,
+		782	Ensifer_sp_WSM1721,
+		783	Sinorhizobium_sp_PC2,
+		784	Ensifer_aridi_JNVU_TP6,
+		785	Ensifer_sp_Root954,
+		786	Sinorhizobium_sp_GW3,
+		787	Ensifer_sp_Root74,
+		788	Ensifer_sp_Root1298,
+		789	Ensifer_sp_Root1312,
+		790	Ensifer_sp_Root558,
+		791	Ensifer_sp_Root423,
+		792	Ensifer_sp_ZNC0028,
+		793	Ensifer_adhaerens_L18,
+		794	Ensifer_sp_LC11,
+		795	Ensifer_sp_LC13,
+		796	Ensifer_sp_LC499,
+		797	Ensifer_sp_LC14,
+		798	Sinorhizobium_sp_Sb3,
+		799	Sinorhizobium_sp_GL28,
+		800	Ensifer_sp_Root278,
+		801	Ensifer_sp_LC163,
+		802	Ensifer_sp_LC384,
+		803	Ensifer_sp_LC54,
+		804	Ensifer_sp_1H6,
+		805	Ensifer_sp_Root258,
+		806	Ensifer_sp_Root142,
+		807	Ensifer_sp_Root231,
+		808	Ensifer_sp_Root31,
+		809	Ensifer_adhaerens_OV14,
+		810	Ensifer_sp_Root1252,
+		811	Ensifer_sp_Root127,
+		812	Sinorhizobium_sp_A49,
+		813	Sinorhizobium_sp_RAC02,
+		814	Shinella_sp_HZN7,
+		815	Shinella_sp_SUS2,
+		816	Shinella_sp_GWS1,
+		817	Rhizobium_sp_YR295,
+		818	Rhizobium_sp_Root483D2,
+		819	Rhizobium_sp_58,
+		820	Rhizobium_sp_59,
+		821	Rhizobium_sp_Root73,
+		822	Rhizobium_sp_Root1204,
+		823	Rhizobium_sp_Root1334,
+		824	Rhizobium_sp_OK665,
+		825	Rhizobium_sp_Leaf453,
+		826	Rhizobium_sp_Leaf391,
+		827	Rhizobium_sp_Root482,
+		828	Rhizobium_sp_CF097,
+		829	Rhizobium_giardinii_bv_giardinii_H152,
+		830	Rhizobium_rhizosphaerae_RD15,
+		831	Martelella_sp_AD_3,
+		832	Martelella_mediterranea_DSM_17316_MACL11,
+		833	Martelella_endophytica_YC6887,
+		834	Hoeflea_sp_IMCC20628,
+		835	Hoeflea_sp_BAL378,
+		836	Hoeflea_olei_JC234,
+		837	Hoeflea_phototrophica_DFL_43,
+		838	Fulvimarina_pelagi_HTCC2506,
+		839	Fulvimarina_pelagi_DSM_15513,
+		840	Fulvimarina_manganoxydans_CGMCC_1_10972,
+		841	Aurantimonas_sp_22II_16_19i,
+		842	Aurantimonas_manganoxydans_SI85_9A1_DSM_21871,
+		843	Aurantimonas_coralicida_DSM_14790,
+		844	Aurantimonas_sp_Leaf443,
+		845	Aureimonas_sp_Leaf454,
+		846	Aureimonas_sp_Leaf427,
+		847	Aureimonas_sp_AU12,
+		848	Aureimonas_sp_AU22,
+		849	Aureimonas_sp_Leaf324,
+		850	Aureimonas_sp_AU4,
+		851	Aureimonas_sp_D3,
+		852	Aureimonas_sp_N4,
+		853	Aureimonas_sp_AU40,
+		854	Aureimonas_sp_AU20,
+		855	Aureimonas_frigidaquae_JCM_14755,
+		856	Aureimonas_altamirensis_DSM_21988,
+		857	Nitratireductor_basaltis_RR3_28,
+		858	Devosia_geojensis_BD_c194,
+		859	Devosia_sp_Root436,
+		860	Devosia_sp_Root635,
+		861	Devosia_psychrophila_CGMCC_1_10210,
+		862	Devosia_sp_LC5,
+		863	Devosia_sp_Leaf420,
+		864	Devosia_sp_Leaf64,
+		865	Devosia_sp_Root685,
+		866	Devosia_riboflavina_IFO13584,
+		867	Devosia_soli_GH2_10,
+		868	Devosia_sp_S37,
+		869	Devosia_enhydra_ATCC_23634,
+		870	Devosia_insulae_DS_56,
+		871	Devosia_sp_Root105,
+		872	Devosia_sp_Root413D1,
+		873	Devosia_sp_A16,
+		874	Devosia_sp_17_2_E_8,
+		875	Devosia_sp_DBB001,
+		876	Pelagibacterium_halotolerans_B2,
+		877	Cucumibacter_marinus_DSM_18995,
+		878	Maritalea_myrionectae_DSM_19524,
+		879	Afifella_pfennigii_DSM_17143,
+		880	Hyphomicrobium_sp_CS1GBMeth3,
+		881	Hyphomicrobium_zavarzinii_ATCC_27496_ZV_622,
+		882	Hyphomicrobium_sp_MC1,
+		883	Hyphomicrobium_sp_802,
+		884	Hyphomicrobium_sp_99,
+		885	Hyphomicrobium_denitrificans_1NES1,
+		886	Hyphomicrobium_denitrificans_ATCC_51888,
+		887	Hyphomicrobium_sp_NDB2Meth4,
+		888	Hyphomicrobium_sp_CS1BSMeth3,
+		889	Parvibaculum_lavamentivorans_DS_1,
+		890	Tepidicaulis_marinus_MA2,
+		891	Terasakiella_pusilla_DSM_6293
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((((((1:0.0036373492,(2:2.2215e_06,3:0.0007820048):0.0040262139):0.00346033,(4:2.0259e_06,5:0.0003901542):0.0040262191):0.0063823539,(6:0.0047561421,7:0.0057202684):0.0107207732):0.0236790086,8:0.034656591):0.0128212038,(((9:0.0015144761,(((((10:0.0001950973,(11:0.0003901413,12:0.0001950951):2.026e_06):2.3871e_06,13:2.0259e_06):2.3489e_06,((14:2.1401e_06,15:2.1651e_06):0.0001951436,((16:2.0259e_06,17:2.0259e_06):2.026e_06,18:0.0001951898):2.6931e_06):0.0001951964):0.000170225,(19:0.0001952862,20:0.0003902091):0.0002204603):0.0011629213,21:0.0027254615):0.0009423544):0.0096258403,(22:2.0259e_06,23:2.0259e_06):0.007554712):0.0069301908,24:0.0188783719):0.0295102671):0.0207093685,((((((((25:2.0259e_06,26:0.0001939747):0.0003880045,27:0.0001939448):0.0003888859,28:0.0005814779):0.0005240092,29:0.0016134905):0.001637606,(30:2.7649e_06,31:2.2116e_06):0.0038120897):0.004565356,32:0.00548716):0.0127446715,((33:0.005942242,(((34:0.0001958833,35:0.0001914999):0.0001937611,36:0.000385063):2.4725e_06,(37:2.0259e_06,38:0.0003873343):2.3779e_06):0.0034534388):0.011767289,(((((39:0.0001945545,40:0.0005843027):2.9819e_06,41:0.0007773271):0.0003893029,(42:0.0005836216,43:2.0259e_06):2.4993e_06):0.0029925854,((44:0.0007756167,45:0.0003946817):0.0056551375,46:0.0023077628):0.0015660178):0.0006181007,47:0.0017738217):0.0081958492):0.009041684):0.0074002899,((48:2.0259e_06,49:2.0259e_06):2.8594e_06,50:0.0001930554):0.0220828908):0.0293339738):0.0417840137,((51:0.0063750223,52:0.0063315315):0.0355776966,(53:0.0229647253,54:0.0148601338):0.0242734392):0.0205950119):0.0501214608,((55:0.020232589,56:0.0206374391):0.0419069266,57:0.0737246627):0.0311030447):0.0236254492,58:0.125017978):0.0222201134,((59:2.0259e_06,60:2.0259e_06):0.0074620008,(61:2.5622e_06,62:0.0001988577):0.0063966439):0.0866310467):0.0181931546,((((63:0.0031848592,64:0.0023227741):0.025932959,65:0.0354540219):0.0128886007,((66:0.0307221939,67:0.0142272739):0.0098565233,68:0.0169054556):0.013308144):0.0139964725,(69:0.0229427758,(70:0.0169698322,71:0.0184392435):0.0061113094):0.0186121646):0.1139988658):0.0235498379,((((((72:2.9235e_06,73:0.0003957452):0.0005269981,74:0.0003171311):0.0031594387,(75:0.0029823865,76:0.0011986067):0.0033302283):0.0256410826,77:0.0317931974):0.0518258236,((78:0.0042488873,79:0.0089935774):0.0402559219,80:0.0318878486):0.0339855166):0.0557385289,(81:0.0799040382,(((82:0.0430624922,83:0.0371037542):0.0134379597,84:0.0693308084):0.0199962719,85:0.0732210161):0.0179651249):0.0423951142):0.0705380754):0.0210864058,86:0.1733090806):0.019136304,((((((((87:0.0004957857,88:0.0003721469):0.0213724384,(((((89:1e_07,90:1e_07):2.0259e_06,91:2.0259e_06):2.464e_06,92:0.0005919403):0.004975629,(((((93:1e_07,94:1e_07):1e_07,95:1e_07):1e_07,96:1e_07):1e_07,97:1e_07):2.0259e_06,98:2.0259e_06):0.0047127973):0.0088668095,(((99:2.0259e_06,100:2.0259e_06):0.0011265242,101:0.0002464035):0.0025344834,102:0.0081414652):0.0085468414):0.0103020409):0.0219046733,((103:2.0259e_06,104:2.0259e_06):0.0278365027,(105:0.0100299538,106:0.010200858):0.0076817138):0.0331299392):0.0089977429,107:0.0337827264):0.0205432808,(((((((((108:0.0040266899,(((109:2.1361e_06,110:0.0003898249):0.0020899749,(111:0.0016501242,112:0.0014904438):0.0056734298):0.0019640107,((113:2.0259e_06,114:2.0259e_06):0.0013902096,115:0.0033045745):0.0004378319):0.0040228137):0.0023831875,116:0.0061488517):0.0042528402,(((117:0.0006491688,118:0.0016948735):0.0298378958,119:0.0073697142):0.0057374284,120:0.0050768754):0.0032485659):0.0188418206,((((121:0.0209635419,122:0.0261365779):0.0185122431,((((123:0.0057554105,124:0.0033924653):0.0049268636,125:0.0040769523):0.0057751614,126:0.0102180989):0.0134210356,127:0.0156651071):0.0257296117):0.0117438059,(((((((128:2.0259e_06,129:2.0259e_06):0.0003913686,130:0.0001943061):0.0057443064,((131:0.0047044984,((132:2.0259e_06,133:2.0259e_06):0.0005917861,134:0.0008228554):0.0017395399):0.0026903188,135:0.007955399):0.001460143):0.0019024411,((((((((((136:0.0005965803,137:0.0008133943):0.0055154739,(((((138:0.0003887013,139:0.0001961393):0.0001953818,140:0.0001953406):2.0823e_06,141:0.0001953572):0.0005851282,142:0.0003933046):0.0028004978,(((143:0.0003937219,144:2.0259e_06):2.026e_06,145:0.0001961541):0.0001961018,146:2.5196e_06):0.0015537102):0.0028716822):0.0046208002,((((((147:0.000797622,148:0.0017465894):0.0004948863,149:0.0016327148):0.0004060225,150:0.0010817539):0.0010667127,(151:0.0001961834,152:0.0005871622):0.0002125682):0.0112686116,153:0.0106512015):0.0029286935,154:0.0077094765):0.0033349625):0.0027635802,((155:0.0003926836,156:0.0001934946):0.0185949429,157:0.0093710271):0.0054831122):0.0040468657,(158:0.0024211157,(((159:2.0259e_06,160:2.0259e_06):2.026e_06,161:2.0259e_06):0.0005897789,162:0.000384999):0.0022407984):0.0032541684):0.0029151334,((163:2.0259e_06,(((164:1e_07,165:1e_07):1e_07,166:1e_07):2.0259e_06,167:2.0259e_06):2.026e_06):0.0029393314,168:0.0066823051):0.0058255999):0.0024623904,(((169:2.0259e_06,170:2.0259e_06):0.0076545816,171:0.0037317625):0.0031888351,172:0.006955911):0.0026023779):0.0032137094,173:0.0088255472):0.0044083724,174:0.0060511182):0.0032862076,175:0.004604246):0.0019234672):0.0017648633,(((176:0.0036696957,177:0.0003734631):0.0016797308,(178:2.662e_06,(179:0.0054429902,180:0.000889428):0.0011501846):0.0003706493):0.0050149931,181:0.0053881114):0.0020918547):0.0047702247,182:0.011085727):0.0052217756,((183:0.0071592694,184:0.0181612596):0.0026812439,(185:0.0007858741,186:0.0005876661):0.0036009948):0.0037942009):0.0337743949):0.0185184352,(187:0.0087748405,188:0.0088706864):0.0239231411):0.0128409334):0.0207646125,(189:0.0086838605,((190:0.004845582,(191:0.0036117888,192:0.0026543611):0.0016034675):0.0022770818,193:0.0058448731):0.0064675786):0.006745007):0.0106825721,194:0.0210468871):0.0120355442,195:0.0282600559):0.012689127,(((196:0.0291505661,197:0.0372458728):0.0120097243,(198:0.0075409049,(((((199:2.0259e_06,200:2.0259e_06):0.0001994311,201:0.0003919161):0.0072519983,202:0.0067208679):0.0256799083,203:0.0123813266):0.014259729,204:0.0144882446):0.0055812416):0.0364611938):0.0102294459,205:0.055405521):0.0149623737):0.0133804669,(206:0.0124086818,207:0.0199673582):0.0417382849):0.0182006425):0.0316221697,208:0.067476449):0.0691588793,(209:0.1200359007,210:0.1600756538):0.0319272911):0.0815400019,((((211:0.0035445131,212:0.0001979383):0.0375820898,213:0.0237942639):0.0238801874,214:0.0326194695):0.0576548403,(((215:0.0017901288,216:0.0005945418):0.0209956894,217:0.02920859):0.0297449127,(218:0.0276795357,219:0.0278131174):0.02996286):0.0510797892):0.0571497176):0.0235290301):0.0152830462,(220:0.0732801967,221:0.0504540273):0.130880042):0.03548756,((222:0.0495318248,223:0.0498352542):0.1003703698,224:0.199841605):0.0375182859):0.0171065451,(((((((((((((((((((225:0.0011783983,(226:0.0005680692,227:0.0022877088):0.0009120439):0.0016895896,228:0.0025415516):0.0091690016,229:0.0072135394):0.0030121657,230:0.0073852786):0.0028660034,231:0.0084734811):0.0017284657,((((((232:0.0016768025,233:0.0002258924):0.0006161764,(234:0.0003795024,235:0.0001899177):0.0010575436):0.0021348548,236:0.0020482622):0.0012599923,237:0.0028202508):0.0023266042,((((238:0.000569842,239:0.0001947693):0.003211842,240:0.0035721353):0.0030599432,((241:0.0015125355,242:0.0022795691):0.0040710706,(243:0.0082867704,((((((244:0.0001892355,245:2.473e_06):0.0001892606,246:0.0001893017):2.4822e_06,247:2.0259e_06):2.3382e_06,(248:0.0001892575,249:2.0259e_06):0.0001892585):0.0013237357,250:0.0022873553):0.0026803261,(251:0.0001887182,252:0.0003806545):0.0015640977):0.0011362143):0.0055051349):0.0024920629):0.0008224823,(253:0.0001901204,(254:0.0003794707,255:0.0001899626):0.000379968):0.0022626448):0.0004290399):0.0037446602,(((((((256:0.0003927943,257:0.0005705907):2.1139e_06,((258:0.0017154684,259:0.0003800705):2.9919e_06,260:0.0003810576):0.0005706832):2.4944e_06,((261:0.001521998,262:0.00038016):2.4796e_06,263:2.0259e_06):0.0001904526):0.0007611047,(264:0.0001904031,(265:0.0003803305,(266:2.0259e_06,(267:0.0001968102,268:0.0001968426):2.4745e_06):2.4278e_06):0.0001909239):2.963e_06):0.0001903155,((269:0.0007864107,270:0.0001969244):0.0001964689,(271:2.4828e_06,272:2.4056e_06):1.9995e_06):0.0001903335):2.1129e_06,273:0.000392859):0.0001944965,274:0.0001962818):0.0087698047):0.0027295738):0.0105868764,((((275:0.0002619767,276:0.0008805477):0.004589685,277:0.0041996943):0.0027812904,((278:0.0003809628,279:0.0009552727):0.0039166112,280:0.0083814342):0.0080044061):0.008586383,281:0.0063335935):0.0093565875):0.0190237718,(((((((282:1e_07,283:1e_07):1e_07,284:1e_07):1e_07,285:1e_07):2.0259e_06,286:2.0259e_06):0.0136248959,287:0.0161058956):0.0189553059,((288:2.0259e_06,289:2.0259e_06):0.0259177541,290:0.0470230748):0.0054103424):0.0045856233,(291:0.0128753413,292:0.0217071428):0.0190274179):0.0095247449):0.0087484527,((293:0.0120660614,294:0.0124812678):0.0066856568,295:0.0178687853):0.0222109378):0.0117980787,296:0.0476594418):0.0113115461,297:0.1397296822):0.0198332605,298:0.0658055023):0.0145129906,299:0.0502881079):0.0188498297,(((300:0.0289052093,301:0.0303148914):0.0098734547,302:0.0271854373):0.0340271833,303:0.0637869122):0.0260458771):0.0319399368,(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((304:1e_07,305:1e_07):1e_07,306:1e_07):1e_07,307:1e_07):1e_07,308:1e_07):1e_07,309:1e_07):1e_07,310:1e_07):1e_07,311:1e_07):1e_07,312:1e_07):1e_07,313:1e_07):1e_07,314:1e_07):1e_07,315:1e_07):1e_07,316:1e_07):1e_07,317:1e_07):1e_07,318:1e_07):1e_07,319:1e_07):1e_07,320:1e_07):1e_07,321:1e_07):1e_07,322:1e_07):1e_07,323:1e_07):1e_07,324:1e_07):1e_07,325:1e_07):1e_07,326:1e_07):1e_07,327:1e_07):1e_07,328:1e_07):1e_07,329:1e_07):1e_07,330:1e_07):1e_07,331:1e_07):1e_07,332:1e_07):1e_07,333:1e_07):1e_07,334:1e_07):1e_07,335:1e_07):1e_07,336:1e_07):1e_07,337:1e_07):1e_07,338:1e_07):1e_07,339:1e_07):1e_07,340:1e_07):1e_07,341:1e_07):1e_07,342:1e_07):1e_07,343:1e_07):1e_07,344:1e_07):1e_07,345:1e_07):1e_07,346:1e_07):1e_07,347:1e_07):1e_07,348:1e_07):1e_07,349:1e_07):1e_07,350:1e_07):1e_07,351:1e_07):1e_07,352:1e_07):1e_07,353:1e_07):1e_07,354:1e_07):1e_07,355:1e_07):1e_07,356:1e_07):2.0259e_06,357:2.0259e_06):2.3756e_06,(((358:1e_07,359:1e_07):2.0222e_06,360:2.1182e_06):0.0001946059,361:0.0001943198):2.5286e_06):2.3747e_06,362:2.5109e_06):0.0001943323,((((363:1e_07,364:1e_07):1e_07,365:1e_07):1e_07,366:1e_07):2.0259e_06,367:2.3298e_06):2.4649e_06):2.5155e_06,368:0.0001943357):0.0003888191,((((369:1e_07,370:1e_07):1e_07,371:1e_07):2.0259e_06,372:2.0259e_06):2.0766e_06,(((373:2.0259e_06,374:0.0003886543):2.5289e_06,375:0.0003910398):0.0001950373,376:0.0001943426):2.5057e_06):2.3557e_06):0.0003887979,((((((377:1e_07,378:1e_07):1e_07,379:1e_07):1e_07,380:1e_07):2.0259e_06,381:2.0259e_06):2.026e_06,382:0.0001950759):0.0001950914,383:0.0003889641):0.0001951211):0.0001947069,(384:0.0001951315,385:0.0001952408):0.0003890676):0.0005831231,(((((((((((((((((((((((((((((((((386:1e_07,387:1e_07):1e_07,388:1e_07):1e_07,389:1e_07):1e_07,390:1e_07):1e_07,391:1e_07):1e_07,392:1e_07):1e_07,393:1e_07):1e_07,394:1e_07):1e_07,395:1e_07):1e_07,396:1e_07):1e_07,397:1e_07):1e_07,398:1e_07):1e_07,399:1e_07):1e_07,400:1e_07):1e_07,401:1e_07):1e_07,402:1e_07):1e_07,403:1e_07):1e_07,404:1e_07):1e_07,405:1e_07):1e_07,406:1e_07):1e_07,407:1e_07):1e_07,408:1e_07):1e_07,409:1e_07):1e_07,410:1e_07):1e_07,411:1e_07):1e_07,412:1e_07):1e_07,413:1e_07):1e_07,414:1e_07):1e_07,415:1e_07):2.0259e_06,416:2.0259e_06):2.0665e_06,417:0.0003910781):2.3696e_06,418:0.0001961894):0.0007826975,(((((419:0.0001943681,420:0.0001944103):2.4976e_06,421:2.0259e_06):2.5112e_06,((422:0.0001943945,423:0.0001943672):2.3754e_06,424:2.0259e_06):0.0001944018):0.0001944085,((425:2.0259e_06,426:2.0259e_06):2.7257e_06,(427:2.0259e_06,(428:0.0001951248,429:2.0259e_06):0.0001950645):0.0001943776):0.0001943964):0.0001948341,(430:2.5078e_06,431:2.5081e_06):0.0003889772):2.1932e_06):0.0007782325):0.0007776001,(((((((((((((432:1e_07,433:1e_07):1e_07,434:1e_07):1e_07,435:1e_07):1e_07,436:1e_07):1e_07,437:1e_07):1e_07,438:1e_07):1e_07,439:1e_07):1e_07,440:1e_07):1e_07,441:1e_07):1e_07,442:1e_07):1e_07,443:1e_07):1e_07,444:1e_07):2.0259e_06,445:2.0259e_06):0.0015552568):2.6548e_06,((((((446:1e_07,447:1e_07):2.0259e_06,448:2.4954e_06):2.4923e_06,449:2.0259e_06):0.0001951583,(((450:1e_07,451:1e_07):1e_07,452:1e_07):2.5163e_06,453:2.0259e_06):2.5105e_06):0.0001945953,((((((((454:1e_07,455:1e_07):1e_07,456:1e_07):1e_07,457:1e_07):1e_07,458:1e_07):1e_07,459:1e_07):2.5261e_06,460:2.0259e_06):2.5252e_06,461:0.0001943914):0.0007785485,((((((462:2.0259e_06,463:2.0259e_06):2.5253e_06,464:0.0001948203):0.0001948464,465:0.0003888498):2.5238e_06,466:2.0259e_06):2.3718e_06,(((467:1e_07,468:1e_07):1e_07,469:1e_07):1e_07,470:1e_07):2.0259e_06):2.026e_06,471:0.0001943984):0.0013603137):2.8608e_06):0.0001950551,472:0.0005829042):2.3368e_06):2.498e_06,((((473:1e_07,474:1e_07):2.0259e_06,475:2.0259e_06):0.0005910303,476:2.5415e_06):0.0001943815,(((477:1e_07,478:1e_07):2.0259e_06,((((479:1e_07,480:1e_07):2.1389e_06,481:2.1389e_06):0.0011659544,482:0.0001943321):2.142e_06,483:0.0001943489):2.6091e_06):2.026e_06,484:2.0259e_06):2.3258e_06):0.0003888689):0.0001942447,(485:0.0007776142,486:0.000388701):2.509e_06):2.5088e_06,(((487:0.0007779265,488:0.001750697):2.5238e_06,489:2.0259e_06):2.3584e_06,490:0.0042957286):0.0001950096):0.0001943879,491:0.0003890608):0.0123113718,(((492:0.0005829243,493:0.0003883878):2.7566e_06,494:0.0011618099):0.0066395769,(((495:0.0001978157,496:0.0003865581):2.026e_06,497:0.000193772):8.39634e_05,(498:0.0001944013,499:2.0259e_06):0.0003031062):0.0038484727):0.0024257682):0.0039997532,500:0.0130202832):0.0064123319,(((501:2.9784e_06,502:2.9383e_06):0.0001940324,503:0.0003866896):0.0068045702,504:0.0073403201):0.020577522):0.0222856518,(505:0.0002136916,506:0.0009980613):0.0689720306):0.0146704264,(507:0.0337061621,(508:0.0156819192,509:0.0223634591):0.0530528267):0.0116910572):0.0106555274,((((((((((510:0.0175294569,(511:0.0016930932,512:0.0006175312):0.0125510848):0.0126606927,((513:0.0001993036,514:2.0259e_06):0.0001921256,515:0.0001929801):0.028994357):0.0072987721,(516:0.0013636845,(517:0.0001933332,518:0.0001933513):0.0023188118):0.0266069307):0.0028704919,519:0.0382234159):0.0020423602,((((520:2.0259e_06,521:0.0001924251):0.0101813846,(522:2.9367e_06,523:2.6693e_06):0.0076619176):0.0050091481,(524:0.0003846902,525:2.0259e_06):0.0105075286):0.0023336071,526:0.0258677374):0.0192566915):0.0043448208,((((((((527:1e_07,528:1e_07):1e_07,529:1e_07):2.0259e_06,530:2.3904e_06):0.0003843004,((531:2.0259e_06,532:2.0259e_06):2.4815e_06,533:0.0040506087):2.201e_06):0.0004460063,534:0.0010953874):0.0116387129,535:0.0316272794):0.0151671325,(536:0.0001308845,537:0.0002533306):0.0362363573):0.0060759278,538:0.0231188544):0.0048952404):0.0072500558,539:0.0310623375):0.0260621449,((((540:0.0109495214,541:0.0051112174):0.0018887874,542:0.006587144):0.0086032086,(543:0.0144920847,544:0.0058160737):0.0099667468):0.0431806772,(545:0.0288643153,(546:0.0001921687,547:2.0259e_06):0.0192495458):0.047837455):0.0074553611):0.0641352041,(548:2.696e_06,549:0.0001913706):0.0522341723):0.017652801,550:0.0707666338):0.0396239907):0.0303757602):0.017162025,((((((((((((((((((((551:2.0259e_06,552:0.0001926546):0.0001926535,553:0.0001926374):2.2088e_06,(((554:1e_07,555:1e_07):1e_07,556:1e_07):2.0259e_06,557:2.0259e_06):2.026e_06):2.0609e_06,558:2.0259e_06):0.0001925788,((((559:1e_07,560:1e_07):1e_07,561:1e_07):2.4509e_06,562:2.4517e_06):0.000192689,563:2.0259e_06):2.8544e_06):0.0018987159,564:0.001609057):0.0027495322,565:0.006573196):0.0045324025,(((566:2.2998e_06,567:0.0003849239):0.0027063174,568:2.2571e_06):0.003945065,569:0.0044022418):0.0022696959):0.0022401159,570:0.000804121):0.003287907,(((571:2.0259e_06,572:2.0259e_06):2.026e_06,573:0.0005772027):0.0006785186,(574:2.0259e_06,575:2.0259e_06):0.000476802):0.0011044145):0.0029143503,(((((((576:1e_07,577:1e_07):1e_07,578:1e_07):1e_07,579:1e_07):2.3096e_06,580:2.5167e_06):0.0001929776,581:2.5091e_06):0.0001928356,(582:0.0003851789,583:2.4812e_06):2.5162e_06):0.0009627977,584:2.8745e_06):0.000657757):0.0015751972,585:0.0016229704):0.0015506203,((((586:1e_07,587:1e_07):2.0259e_06,588:2.0259e_06):2.026e_06,589:2.0259e_06):0.0001928459,(590:0.0001928505,(591:2.0259e_06,592:2.0259e_06):0.0001931511):2.5084e_06):0.001119319):0.0113912271,(((593:0.0011144432,594:0.001786704):0.0163950599,595:0.0040583429):0.0176287363,(596:2.0259e_06,597:2.0259e_06):0.0162218101):0.00940488):0.0293320082,((((((598:0.0094320392,((599:2.0259e_06,600:0.0001913959):0.0025882124,601:0.005338198):0.0035210733):0.0093046866,602:0.0176283146):0.008791354,(603:2.0259e_06,604:2.0259e_06):0.0155137775):0.012110809,605:0.0239784694):0.0129262463,606:0.0352605143):0.0068886826,(607:0.0105086444,(608:2.0259e_06,609:2.0259e_06):0.0156196593):0.0293168424):0.01234987):0.0074498643,(((((610:0.0009632177,611:0.0001887215):0.0163713667,612:0.0304370028):0.0136252845,((613:0.0042870142,(614:0.0047845286,(615:0.001332512,616:0.0017409668):0.0053807415):0.0035640711):0.0232841832,(617:0.0001939144,618:0.0001887418):0.0386826682):0.0111976068):0.0062468004,619:0.0231497708):0.0096820816,620:0.0399901038):0.00989585):0.0093206924,((((((((((((((((((((621:0.0003857712,(622:0.0003854767,623:0.0005787001):2.5087e_06):0.0005465868,(624:0.0013156564,625:0.0004175632):0.001349742):0.0002099051,626:0.0007859646):0.0005779372,627:0.0002084953):0.0007558831,(((628:0.0001927433,(629:0.0001929351,(630:0.0001923984,631:0.0005775132):0.0013479755):0.0003851188):0.0003842003,(632:0.0023623603,633:0.0001926174):0.0001940221):0.0009634077,634:0.0011553022):2.5292e_06):0.0007716473,635:2.49e_06):0.0001926404,636:2.4183e_06):0.0003907299,637:0.0023129451):0.0007731317,((((638:0.0003852682,639:0.0001926384):2.3155e_06,640:0.000578385):0.0006748067,641:0.0010604705):0.0011352247,(642:0.0021010307,((((643:2.0259e_06,(644:0.0001926111,645:0.0001926086):2.4942e_06):2.026e_06,646:2.0259e_06):2.026e_06,647:0.0001926525):0.000385307,648:0.0001927871):0.0009842917):0.0004813863):0.0003043785):0.0008661985,649:0.0005012382):0.0035673311,650:0.0085956842):0.0028011749,(651:0.0005769285,652:2.0259e_06):0.0029909945):0.0023737667,(((653:2.0259e_06,654:0.0003856364):2.8764e_06,655:0.0003857217):0.0021678868,(((656:2.4468e_06,657:2.0259e_06):2.4698e_06,658:0.0001927642):0.0007130412,(659:0.0001926217,660:0.0003859994):0.0006388795):0.0006721064):0.0008657448):0.0016888845,((661:2.0259e_06,662:2.0259e_06):0.0013582032,663:0.0011494438):0.0020089629):0.0019290951,664:0.0025612633):0.0042856884,(((((((((665:1e_07,666:1e_07):2.0259e_06,667:2.0259e_06):2.026e_06,668:0.0005782914):0.0001926707,(669:0.0001926577,670:2.0259e_06):2.1841e_06):0.0001926762,(((((671:2.0259e_06,672:2.0259e_06):0.0001926822,((673:1e_07,674:1e_07):2.1038e_06,675:2.4994e_06):0.0001927182):2.3657e_06,(676:1e_07,677:1e_07):2.0259e_06):2.3396e_06,678:2.0259e_06):2.498e_06,679:0.000385396):2.3646e_06):2.453e_06,680:0.0003831207):0.0008775127,681:0.0029897501):0.0014249898,(682:0.0018986403,(683:0.0004773877,(684:2.0259e_06,685:0.0003860727):0.0010672583):0.0010919329):0.0014065229):0.001855432,((((((686:2.0259e_06,687:2.0259e_06):0.0001921464,((((688:1e_07,689:1e_07):1e_07,690:1e_07):1e_07,691:1e_07):2.0259e_06,692:2.0259e_06):2.026e_06):0.0003849374,(693:2.5034e_06,694:2.1166e_06):0.0003840609):0.0015036111,(695:0.0014733964,((696:0.0003851471,697:0.0001925889):0.000192398,698:2.6265e_06):0.0027765423):0.0013972656):0.0018380355,(699:2.0259e_06,700:2.0259e_06):0.0019651476):0.0026870009,701:0.0005343635):0.0017391406):0.0031856431):0.0100246999,(702:0.0024228841,703:0.0051228518):0.0125189534):0.0069869416,(((((704:0.0008883044,705:0.0006823435):0.0088971098,706:0.0035302131):0.003907062,(707:0.0109695993,(708:0.012834602,709:0.0078296523):0.0070085145):0.0035191779):0.0016776607,710:0.0042193826):0.009989525,(((711:0.000967532,(712:0.0003879386,713:0.0001939701):0.0005861169):0.0086569844,714:0.002562695):0.0014519482,(((715:0.0053368619,716:0.0069947798):0.0020916241,((717:2.0259e_06,718:2.0259e_06):0.0001876876,719:0.0013637054):0.0028965114):0.0046250995,(720:0.0013262589,721:0.0004201633):0.004366433):0.0011358787):0.0051923105):0.0076152698):0.004445997,(((722:0.0001935483,723:0.0009677991):0.0007751071,724:0.0011629517):0.00019327,725:2.5121e_06):0.0132920511):0.0089052487,((((726:0.0083069321,(727:0.0010189031,728:0.0003362174):0.0121594732):0.004333093,((((((729:1e_07,730:1e_07):1e_07,731:1e_07):1e_07,732:1e_07):1e_07,733:1e_07):2.0259e_06,734:2.0259e_06):2.026e_06,735:0.0007727532):0.0159569116):0.0080391876,(736:0.0068738543,((737:0.0047329088,738:0.0034457019):0.0012085448,739:0.0036225399):0.0040806058):0.002566733):0.0030131605,(740:2.0259e_06,741:2.0259e_06):0.0089996492):0.0178667498):0.0274685823):0.0080624219,(((((((((((742:0.000200619,743:0.0001980606):0.0005953951,744:2.5673e_06):2.1476e_06,((745:2.0259e_06,746:2.0259e_06):0.0001979536,747:0.0003972391):0.0003871829):0.0003846876,(((748:2.0259e_06,749:0.0001953307):3.3189e_06,750:0.0001937787):2.5109e_06,751:0.000211361):2.5762e_06):0.0029604955,752:0.00341651):0.0023864311,753:0.0082456968):0.0026891492,(754:0.0040794397,((755:0.0009220591,756:0.0004335991):0.0031725677,757:0.0026375849):0.0025500833):0.0035393154):0.004988926,((((((((758:0.0003866256,((759:2.0259e_06,760:2.0259e_06):2.026e_06,(761:0.0007735207,762:2.5229e_06):0.0001935932):2.499e_06):0.000193594,((((763:0.0001936001,764:2.0259e_06):2.026e_06,((((765:1e_07,766:1e_07):1e_07,767:1e_07):1e_07,768:1e_07):1e_07,769:1e_07):2.0259e_06):2.026e_06,770:2.0259e_06):2.026e_06,(771:0.0003866575,772:0.0005797378):2.026e_06):2.5087e_06):2.3624e_06,773:0.0001942306):0.00077885,774:0.0031013562):0.0005531413,775:0.0008039537):0.0041352818,(((776:2.0259e_06,777:0.0001936239):0.0001936587,(778:2.0259e_06,779:2.0259e_06):2.026e_06):0.0001923488,780:0.0001949928):0.0084702931):0.0035639612,781:0.0027980318):0.0128154778,(782:0.002086237,(783:0.0001936956,784:0.0001947741):0.00292666):0.0081969978):0.0070604211):0.0129873203,((((((((((785:1e_07,786:1e_07):1e_07,787:1e_07):1e_07,788:1e_07):2.0259e_06,789:2.0259e_06):0.0001932871,(790:2.0685e_06,791:0.0001938063):0.0005812165):0.0011704074,792:0.0013477338):0.0006533924,793:0.0022309444):0.0028960214,(((794:1e_07,795:1e_07):1e_07,796:1e_07):2.4929e_06,797:2.0259e_06):0.0015875041):0.0019710951,((798:0.0003847192,799:0.0001925899):0.0003833843,800:2.9813e_06):0.0026370011):0.0078217771,(((801:1e_07,802:1e_07):2.0259e_06,803:2.0259e_06):0.0012329335,((((((((804:1e_07,805:1e_07):1e_07,806:1e_07):1e_07,807:1e_07):1e_07,808:1e_07):1e_07,809:1e_07):1e_07,810:1e_07):2.0259e_06,811:2.0259e_06):0.0007686965,812:0.0052191883):0.0020583834):0.0094390486):0.0075785542):0.014887458,(813:0.0155156946,(814:0.0064620747,(815:2.0259e_06,816:2.0259e_06):0.00519947):0.0079389018):0.0361146828):0.0070523765,(((((817:0.0049309108,((818:0.004783666,(819:0.0001911527,820:2.0259e_06):0.0331439214):0.0048194574,(((821:1e_07,822:1e_07):2.8605e_06,823:2.0259e_06):0.0016668735,824:0.0029591588):0.0016561978):0.0044918448):0.0041604223,(825:2.4663e_06,826:0.0001921675):0.0154035883):0.0045947831,827:0.0119638003):0.0068381548,(828:0.0049317986,829:0.0055400761):0.0051330984):0.0228199279,830:0.0493168219):0.012253982):0.0123066183):0.0209108523,((831:0.0258189883,832:0.025959519):0.011801396,833:0.0227013181):0.0863135793):0.0153021763,((834:0.0404484489,(835:0.0164287569,836:0.0229825906):0.0109719062):0.0111709698,837:0.0238411822):0.0768815085):0.0301148176):0.0178157892,((((((838:2.0259e_06,839:2.0259e_06):0.0831889077,840:0.0422549101):0.0316144509,841:0.0633220219):0.0136360182,(842:0.0020400055,843:0.0023956431):0.0569510919):0.014999701,844:0.0634774524):0.0200681319,((845:0.0117642426,846:0.0092225963):0.0816527685,(((847:0.0498364918,((848:0.0126678039,849:0.0105510519):0.0318249867,850:0.0448939264):0.0081368412):0.0091071982,((851:0.0002349476,852:0.0003488287):0.0176688097,(853:0.0005797534,854:0.0001938926):0.0216204477):0.026863205):0.0305886788,(855:0.0263955138,856:0.027380431):0.0433343488):0.0197638307):0.0151858857):0.0743227189):0.0237386358,857:0.1850272139):0.0373824391,(((((858:0.0615647334,((((859:0.0066803453,860:0.0076384622):0.0135040142,861:0.0474319141):0.0120300773,862:0.0259765148):0.0288562661,((((863:2.0259e_06,864:0.0001974048):0.0153409592,(865:0.022339953,866:0.0133331528):0.0083128633):0.0076748779,867:0.016213257):0.0242020421,868:0.0291009779):0.0292507756):0.0302923246):0.0327158815,((869:0.0752716655,((870:0.0037765931,(871:2.0259e_06,872:2.0259e_06):0.0028664192):0.0113584549,873:0.0098319594):0.0796960019):0.031432775,(874:0.0003933553,875:2.5627e_06):0.0793743996):0.0140162592):0.0716595678,876:0.1108364338):0.0340509966,(877:0.0990104131,878:0.1099569298):0.0389458159):0.1063139591,879:0.2032045148):0.0278689994):0.0184815401):0.0313256905,((((880:0.0365964466,881:0.0358536008):0.0733139449,(((882:2.0259e_06,883:2.0259e_06):0.0205878979,884:0.0310707763):0.0166621091,(885:0.0118775014,886:0.0157014469):0.0190735806):0.1124764668):0.0227784638,887:0.1051143393):0.0675691378,888:0.1411263018):0.1723783872):0.0151369267,((889:0.1439038597,890:0.1514018879):0.0804963649,891:0.4892034786):0.0151369267);
+END;
+
+begin characters;
+  dimensions nchar=1;
+  format datatype=standard;
+  matrix
+    Afifella_pfennigii_DSM_17143	f
+    Afipia_birgiae_34632	f
+    Afipia_massiliensis_LC387	f
+    Afipia_sp_1NLS2	f
+    Afipia_broomeae_ATCC_49717	M
+    Afipia_sp_OHSU_II_uncloned	M
+    Afipia_sp_NBIMC_P1_C1	M
+    Afipia_sp_NBIMC_P1_C2	M
+    Afipia_sp_NBIMC_P1_C3	M
+    Afipia_sp_OHSU_I_C4	M
+    Afipia_sp_OHSU_I_C6	M
+    Afipia_sp_OHSU_II_C1	M
+    Afipia_sp_OHSU_II_C2	M
+    Afipia_sp_OHSU_I_uncloned	M
+    Afipia_clevelandensis_ATCC_49720	M
+    Afipia_felis_ATCC_53690	M
+    Afipia_sp_P52_10	M
+    Afipia_sp_Root123D2	V
+    Agrobacterium_albertimagni_AOL15	V
+    Agrobacterium_sp_RAC06	V
+    Agrobacterium_tumefaciens_str_CFBP_5621	V
+    Agrobacterium_sp_224MFTsu3_1	V
+    Agrobacterium_sp_UNC420CL41Cvi	V
+    Agrobacterium_sp_33MFTa1_1	V
+    Agrobacterium_arsenijevicii_KFB_330	V
+    Agrobacterium_tumefaciens_LBA4213_Ach5_	V
+    Agrobacterium_sp_13_2099_1_2	V
+    Agrobacterium_sp_H13_3	V
+    Agrobacterium_tumefaciens_15_1187_1_2a	V
+    Agrobacterium_tumefaciens_15_1187_1_2b	V
+    Agrobacterium_tumefaciens_15_174	V
+    Agrobacterium_tumefaciens_N2_73	V
+    Agrobacterium_tumefaciens_P4	V
+    Agrobacterium_tumefaciens_WRT31	V
+    Agrobacterium_fabrum_str_C58	V
+    Agrobacterium_sp_SUL3	V
+    Agrobacterium_tumefaciens_15_172	V
+    Agrobacterium_tumefaciens_B140_95	V
+    Agrobacterium_tumefaciens_str_Cherry_2E_2_2	V
+    Agrobacterium_sp_13_626	V
+    Agrobacterium_sp_B131_95	V
+    Agrobacterium_sp_B133_95	V
+    Agrobacterium_sp_DSM_25558	V
+    Agrobacterium_sp_DSM_25559	V
+    Agrobacterium_vitis_T1_7	V
+    Agrobacterium_vitis_S4	V
+    Agrobacterium_radiobacter_K84	f
+    Agrobacterium_tumefaciens_F2	f
+    Agrobacterium_sp_LY4	f
+    Agrobacterium_tumefaciens_GW4	f
+    Agrobacterium_sp_TS45	f
+    Agrobacterium_sp_JL28	f
+    Agrobacterium_sp_D14	f
+    Agrobacterium_sp_C13	f
+    Agrobacterium_tumefaciens_5A	f
+    Agrobacterium_tumefaciens_str_CFBP_5771	f
+    Agrobacterium_sp_LC34	f
+    Agrobacterium_sp_YIC_4121	F
+    Agrobacterium_sp_YIC_5082	F
+    Agrobacterium_tumefaciens_CCNWGS0286	F
+    Aminobacter_aminovorans_KCTC_2477	f
+    Aminobacter_sp_Root100	V
+    Ancylobacter_sp_FA202	f
+    Aurantimonas_coralicida_DSM_14790	M
+    Aurantimonas_manganoxydans_SI85_9A1_DSM_21871	f
+    Aurantimonas_sp_22II_16_19i	f
+    Aurantimonas_sp_Leaf443	V
+    Aureimonas_altamirensis_DSM_21988	f
+    Aureimonas_frigidaquae_JCM_14755	f
+    Aureimonas_sp_AU12	V
+    Aureimonas_sp_AU20	V
+    Aureimonas_sp_AU40	V
+    Aureimonas_sp_D3	V
+    Aureimonas_sp_N4	V
+    Aureimonas_sp_AU22	V
+    Aureimonas_sp_Leaf324	V
+    Aureimonas_sp_AU4	V
+    Aureimonas_sp_Leaf427	V
+    Aureimonas_sp_Leaf454	V
+    Azorhizobium_caulinodans_ORS_571	F
+    Azorhizobium_doebereinerae_UFLA1_100	F
+    Bartonella_alsatica_IBS_382	M
+    Bartonella_henselae_JK_53	M
+    Bartonella_henselae_str_Zeus	M
+    Bartonella_quintana_JK_19	M
+    Bartonella_quintana_JK_68	M
+    Bartonella_sp_DB5_6	M
+    Bartonella_birtlesii_IBS_325	M
+    Bartonella_taylorii_8TBB	M
+    Bartonella_henselae_JK_41	M
+    Bartonella_henselae_JK_50	M
+    Bartonella_henselae_JK_51	M
+    Bartonella_koehlerae_C_29	M
+    Bartonella_birtlesii_E4	M
+    Bartonella_rattimassiliensis_15908	M
+    Bartonella_birtlesii_LL_WM9	M
+    Bartonella_grahamii_as4aup	M
+    Bartonella_grahamii_ATCC_700132	M
+    Bartonella_vinsonii_subsp_berkhoffii_ATCC_51672	M
+    Bartonella_vinsonii_subsp_berkhoffii_str_Tweed	M
+    Bartonella_doshiae_NCTC_12862_ATCC_700133	M
+    Bartonella_elizabethae_BeUM	M
+    Bartonella_elizabethae_F9251_ATCC_49927	M
+    Bartonella_henselae_U4	M
+    Bartonella_henselae_JK_42	M
+    Bartonella_henselae_str_Houston_1	M
+    Bartonella_taylorii_IBS325	M
+    Bartonella_tribocorum_BM1374166	M
+    Bartonella_tribocorum_CIP_105476	M
+    Bartonella_vinsonii_subsp_berkhoffii_str_Winnie	M
+    Bartonella_washoensis_Sb944nv	M
+    Bartonella_apis_BBC0122	M
+    Bartonella_bovis_91_4	M
+    Bartonella_bovis_m02	M
+    Bartonella_schoenbuchensis_m07a	M
+    Bartonella_sp_WD12_1	M
+    Bartonella_melophagi_K_2C	M
+    Bartonella_sp_JB63	M
+    Bartonella_clarridgeiae_73	M
+    Bartonella_clarridgeiae_ATCC_51734	M
+    Bartonella_tamiae_Th307	M
+    Bartonella_tamiae_Th239	M
+    Beijerinckia_indica_subsp_indica_ATCC_9039	f
+    Bosea_sp_117	f
+    Bosea_sp_BIWAKO_01	f
+    Bosea_sp_LC85	f
+    Bosea_sp_WAO	f
+    Bosea_thiooxidans_DSM_9653	f
+    Bosea_sp_RAC05	V
+    Bosea_sp_Root381	V
+    Bosea_sp_UNC402CLCol	V
+    Bosea_sp_TND4EK4	V
+    Bosea_vaviloviae_Vaf18	F
+    Bradyrhizobiaceae_bacterium_SG_6C	f
+    Bradyrhizobium_elkanii_CCBAU_43297	F
+    Bradyrhizobium_neotropicale_BR_10247	F
+    Bradyrhizobium_sp_SEMIA_6399	F
+    Bradyrhizobium_sp_UFLA_03_321	F
+    Bradyrhizobium_elkanii_CCBAU_05737	F
+    Bradyrhizobium_retamae_Ro19	F
+    Bradyrhizobium_icense_LMTR_13	F
+    Bradyrhizobium_sp_th_b2	F
+    Bradyrhizobium_elkanii_USDA_94	F
+    Bradyrhizobium_embrapense_SEMIA_6208	F
+    Bradyrhizobium_canariense_UBMA171	F
+    Bradyrhizobium_elkanii_USDA_3254	F
+    Bradyrhizobium_elkanii_USDA_3259	F
+    Bradyrhizobium_elkanii_USDA_76	F
+    Bradyrhizobium_elkanii_WSM1741	F
+    Bradyrhizobium_paxllaeri_LMTR_21	F
+    Bradyrhizobium_sp_LMTR_3	F
+    Bradyrhizobium_sp_ORS_278	F
+    Bradyrhizobium_liaoningense_CCBAU_83689	F
+    Bradyrhizobium_sp_CCBAU_43298	F
+    Bradyrhizobium_japonicum_CCBAU_15354	F
+    Bradyrhizobium_liaoningense_CCBAU_05525	F
+    Bradyrhizobium_yuanmingense_CCBAU_25021	F
+    Bradyrhizobium_japonicum_CCBAU_83623	F
+    Bradyrhizobium_sp_STM_3809	F
+    Bradyrhizobium_japonicum_CCBAU_25435	F
+    Bradyrhizobium_sp_WSM1253	F
+    Bradyrhizobium_sp_CCBAU_41267	F
+    Bradyrhizobium_japonicum_CCBAU_15517	F
+    Bradyrhizobium_japonicum_CCBAU_15618	F
+    Bradyrhizobium_liaoningense_CCNWSX0360	F
+    Bradyrhizobium_sp_DOA9	F
+    Bradyrhizobium_sp_BTAi1	F
+    Bradyrhizobium_japonicum_USDA_38	F
+    Bradyrhizobium_sp_CCGE_LA001	F
+    Bradyrhizobium_yuanmingense_CCBAU_05623	F
+    Bradyrhizobium_sp_CCBAU_15615	F
+    Bradyrhizobium_yuanmingense_CCBAU_35157	F
+    Bradyrhizobium_japonicum_USDA_135	F
+    Bradyrhizobium_sp_CCBAU_15544	F
+    Bradyrhizobium_sp_CCBAU_15635	F
+    Bradyrhizobium_sp_WSM4349	F
+    Bradyrhizobium_japonicum_USDA_123	F
+    Bradyrhizobium_sp_WSM1417	F
+    Bradyrhizobium_yuanmingense_CCBAU_10071	F
+    Bradyrhizobium_sp_Ec3_3	F
+    Bradyrhizobium_japonicum_SEMIA_5079	F
+    Bradyrhizobium_japonicum_USDA_4	F
+    Bradyrhizobium_sp_WSM2793	F
+    Bradyrhizobium_diazoefficiens_USDA_122	F
+    Bradyrhizobium_diazoefficiens_SEMIA_5080	F
+    Bradyrhizobium_diazoefficiens_USDA_110	F
+    Bradyrhizobium_japonicum_USDA_122	F
+    Bradyrhizobium_sp_WSM3983	F
+    Bradyrhizobium_sp_WSM471	F
+    Bradyrhizobium_genosp_SA_4_str_CB756	F
+    Bradyrhizobium_japonicum_UBMA197	F
+    Bradyrhizobium_japonicum_USDA_124	F
+    Bradyrhizobium_japonicum_USDA_6	F
+    Bradyrhizobium_sp_USDA_3384	F
+    Bradyrhizobium_sp_WSM1743	F
+    Bradyrhizobium_sp_WSM2254	F
+    Bradyrhizobium_stylosanthis_BR_446	F
+    Bradyrhizobium_sp_ARR65	F
+    Bradyrhizobium_elkanii_WSM2783	F
+    Bradyrhizobium_sp_BR_10245	F
+    Bradyrhizobium_sp_Ai1a_2	F
+    Bradyrhizobium_sp_Cp5_3	F
+    Bradyrhizobium_sp_AS23_2	F
+    Bradyrhizobium_sp_STM_3843	F
+    Bradyrhizobium_sp_Tv2a_2	F
+    Bradyrhizobium_oligotrophicum_S58	f
+    Bradyrhizobium_sp_CCH5_F6	f
+    Bradyrhizobium_sp_G22	f
+    Bradyrhizobium_japonicum_22	f
+    Bradyrhizobium_sp_S23321	f
+    Bradyrhizobium_sp_URHA0013	f
+    Bradyrhizobium_japonicum_in8p8	f
+    Bradyrhizobium_japonicum_is5	f
+    Bradyrhizobium_sp_LTSP849	f
+    Bradyrhizobium_sp_LTSP857	f
+    Bradyrhizobium_sp_CCH10_C7	f
+    Bradyrhizobium_sp_CCH4_A6	f
+    Bradyrhizobium_sp_URHA0002	f
+    Bradyrhizobium_sp_LTSPM299	f
+    Bradyrhizobium_sp_URHD0069	f
+    Bradyrhizobium_sp_LTSP885	f
+    Bradyrhizobium_sp_YR681	V
+    Bradyrhizobium_sp_Leaf396	V
+    Bradyrhizobium_sp_OHSU_III	M
+    Brucella_ceti_str_Cudo	M
+    Brucella_abortus_63_168	M
+    Brucella_abortus_63_294	M
+    Brucella_abortus_88_217	M
+    Brucella_sp_UK5_01	M
+    Brucella_suis_019	M
+    Brucella_canis_SVA10	M
+    Brucella_canis_BCB018	M
+    Brucella_canis_79_122	M
+    Brucella_canis_HSK_A52141	M
+    Brucella_ovis_IntaBari_1993_758	M
+    Brucella_ovis_IntaBari_2001_319_4082	M
+    Brucella_ovis_IntaBari_2001_319_5096	M
+    Brucella_ovis_IntaBari_2002_82_58	M
+    Brucella_ovis_IntaBari_2006_46_332	M
+    Brucella_ovis_IntaBari_2006_46_348	M
+    Brucella_ovis_IntaBari_2008_114_542	M
+    Brucella_ovis_IntaBari_2009_88_4	M
+    Brucella_ovis_IntaBari_2010_47_268	M
+    Brucella_ovis_IntaBari_2010_47_871	M
+    Brucella_melitensis_NI	M
+    Brucella_melitensis_bv_1_str_133	M
+    Brucella_suis_bv_1_str_BCB025	M
+    Brucella_abortus_bv_1_str_134	M
+    Brucella_abortus_544	M
+    Brucella_abortus_F2_06_8	M
+    Brucella_melitensis_bv_1_str_BCB033	M
+    Brucella_suis_F7_06_1	M
+    Brucella_suis_F7_06_2	M
+    Brucella_abortus_78_32	M
+    Brucella_melitensis_BG2_S27_	M
+    Brucella_sp_CMUL_013	M
+    Brucella_sp_CMUL_029	M
+    Brucella_melitensis_bv_3_BM_IND1	M
+    Brucella_sp_UK40_99	M
+    Brucella_ceti_TE10759_12	M
+    Brucella_melitensis_bv_3_str_128	M
+    Brucella_abortus_bv_2_str_BCB034	M
+    Brucella_melitensis_CNGB_1076	M
+    Brucella_suis_F4_06_146	M
+    Brucella_melitensis_F5_07_239A	M
+    Brucella_melitensis_Br_m_1268_11_Geo	M
+    Brucella_melitensis_CNGB_1120	M
+    Brucella_melitensis_F2_06_6	M
+    Brucella_sp_56_94	M
+    Brucella_suis_F5_05_4	M
+    Brucella_abortus_863_67	M
+    Brucella_melitensis_Uk24_06	M
+    Brucella_melitensis_16M1W	M
+    Brucella_melitensis_66_59	M
+    Brucella_melitensis_B115	M
+    Brucella_melitensis_bv_1_str_BCB028	M
+    Brucella_melitensis_bv_2_str_63_9	M
+    Brucella_melitensis_CNGB_290	M
+    Brucella_melitensis_F1_06_B10	M
+    Brucella_melitensis_F10_06_16	M
+    Brucella_melitensis_F15_06_7	M
+    Brucella_melitensis_F3_02	M
+    Brucella_melitensis_F6_05_6	M
+    Brucella_melitensis_F8_01_155	M
+    Brucella_melitensis_M28	M
+    Brucella_melitensis_UK14_06	M
+    Brucella_melitensis_UK19_04	M
+    Brucella_melitensis_UK22_04	M
+    Brucella_melitensis_UK23_06	M
+    Brucella_melitensis_UK29_05	M
+    Brucella_melitensis_UK3_06	M
+    Brucella_melitensis_UK37_05	M
+    Brucella_sp_CMUL_003	M
+    Brucella_sp_CMUL_004	M
+    Brucella_sp_CMUL_010	M
+    Brucella_sp_CMUL_014	M
+    Brucella_sp_CMUL_015	M
+    Brucella_sp_CMUL_018	M
+    Brucella_sp_CMUL_024	M
+    Brucella_sp_CMUL_025	M
+    Brucella_sp_CMUL_026	M
+    Brucella_sp_CMUL_027	M
+    Brucella_sp_CMUL_036	M
+    Brucella_sp_CMUL_08	M
+    Brucella_suis_92_63	M
+    Brucella_suis_F5_05_10	M
+    Brucella_suis_F8_06_1	M
+    Brucella_suis_F8_06_3	M
+    Brucella_suis_F9_06_1	M
+    Brucella_ovis_81_8	M
+    Brucella_suis_2004000577	M
+    Brucella_suis_F7_06_5	M
+    Brucella_abortus_104M	M
+    Brucella_abortus_88_19	M
+    Brucella_canis_str_Oliveri	M
+    Brucella_melitensis_16M13W	M
+    Brucella_suis_CNGB_786	M
+    Brucella_microti_CCM_4915	M
+    Brucella_ovis_63_96	M
+    Brucella_ovis_80_125	M
+    Brucella_ovis_F8_05B	M
+    Brucella_abortus_01_0065	M
+    Brucella_abortus_01_0585	M
+    Brucella_abortus_01_0648	M
+    Brucella_abortus_225_65	M
+    Brucella_abortus_600_64	M
+    Brucella_abortus_63_144	M
+    Brucella_abortus_64_108	M
+    Brucella_abortus_64_122	M
+    Brucella_abortus_64_81	M
+    Brucella_abortus_67_93	M
+    Brucella_abortus_78_14	M
+    Brucella_abortus_80_102	M
+    Brucella_abortus_80_108	M
+    Brucella_abortus_80_28	M
+    Brucella_abortus_82_3893	M
+    Brucella_abortus_84_26	M
+    Brucella_abortus_84_0928	M
+    Brucella_abortus_85_140	M
+    Brucella_abortus_85_1058	M
+    Brucella_abortus_87_28	M
+    Brucella_abortus_87_0095	M
+    Brucella_abortus_87_2211	M
+    Brucella_abortus_877_67	M
+    Brucella_abortus_88_226	M
+    Brucella_abortus_90_50	M
+    Brucella_abortus_90_0737	M
+    Brucella_abortus_90_0775	M
+    Brucella_abortus_90_0962	M
+    Brucella_abortus_90_1280	M
+    Brucella_abortus_93_1	M
+    Brucella_abortus_93_2	M
+    Brucella_abortus_94_1313	M
+    Brucella_abortus_A13334	M
+    Brucella_abortus_B10_0018	M
+    Brucella_abortus_B10_0091	M
+    Brucella_abortus_B10_0973	M
+    Brucella_abortus_CNGB_1011	M
+    Brucella_abortus_CNGB_1432	M
+    Brucella_abortus_CNGB_308	M
+    Brucella_abortus_CNGB_436	M
+    Brucella_abortus_CNGB_752	M
+    Brucella_abortus_CNGB_759	M
+    Brucella_abortus_CNGB_966	M
+    Brucella_abortus_F1_06_B1	M
+    Brucella_abortus_F1_06_B21	M
+    Brucella_abortus_F10_05_11	M
+    Brucella_abortus_F3_01_300	M
+    Brucella_abortus_F6_05_2	M
+    Brucella_abortus_F6_05_9	M
+    Brucella_abortus_I103_UK3_01_	M
+    Brucella_abortus_levi_gila	M
+    Brucella_abortus_NI240	M
+    Brucella_abortus_NI274	M
+    Brucella_abortus_NI352	M
+    Brucella_abortus_NI380	M
+    Brucella_abortus_NI388	M
+    Brucella_abortus_NI422	M
+    Brucella_abortus_NI492	M
+    Brucella_abortus_NI495a	M
+    Brucella_abortus_NI518	M
+    Brucella_abortus_NI593	M
+    Brucella_abortus_NI613	M
+    Brucella_abortus_NI622	M
+    Brucella_abortus_NI628	M
+    Brucella_abortus_NI633	M
+    Brucella_abortus_NI639	M
+    Brucella_abortus_NI645	M
+    Brucella_abortus_NI649	M
+    Brucella_abortus_R42_08	M
+    Brucella_abortus_S19	M
+    Brucella_melitensis_S66	M
+    Brucella_pinnipedialis_B2_94	M
+    Brucella_sp_F23_97	M
+    Brucella_sp_F5_06	M
+    Brucella_sp_F8_99	M
+    Brucella_sp_F96_2	M
+    Brucella_sp_UK1_97	M
+    Brucella_sp_UK38_05	M
+    Brucella_suis_1330	M
+    Brucella_suis_bv_1_str_S2	M
+    Brucella_suis_CNGB_247	M
+    Brucella_canis_CNGB_1324	M
+    Brucella_canis_CNGB_513	M
+    Brucella_canis_ATCC_23365	M
+    Brucella_vulpis_F60	M
+    Brucella_inopinata_BO1	M
+    Brucella_sp_09RB8910	M
+    Brucella_sp_BO2	M
+    Brucella_sp_NF_2653	M
+    Brucella_sp_09RB8471	M
+    Brucella_sp_141012304	M
+    Chelativorans_sp_BNC1	f
+    Chelatococcus_sp_CO_6	f
+    Chelatococcus_sambhunathii_DSM_18167	f
+    Chelatococcus_sp_GW1	f
+    Chelatococcus_daeguensis_TAD1	f
+    Cucumibacter_marinus_DSM_18995	f
+    Devosia_enhydra_ATCC_23634	f
+    Devosia_geojensis_BD_c194	f
+    Devosia_sp_A16	f
+    Devosia_insulae_DS_56	f
+    Devosia_psychrophila_CGMCC_1_10210	f
+    Devosia_soli_GH2_10	f
+    Devosia_riboflavina_IFO13584	f
+    Devosia_sp_17_2_E_8	f
+    Devosia_sp_DBB001	f
+    Devosia_sp_LC5	f
+    Devosia_sp_Leaf420	V
+    Devosia_sp_Leaf64	V
+    Devosia_sp_Root105	V
+    Devosia_sp_Root413D1	V
+    Devosia_sp_Root436	V
+    Devosia_sp_Root635	V
+    Devosia_sp_Root685	V
+    Devosia_sp_S37	V
+    Ensifer_sp_LC54	f
+    Ensifer_sp_LC163	f
+    Ensifer_adhaerens_L18	f
+    Ensifer_sp_LC11	f
+    Ensifer_sp_LC13	f
+    Ensifer_sp_LC14	f
+    Ensifer_sp_LC384	f
+    Ensifer_sp_LC499	f
+    Ensifer_sp_Root954	V
+    Ensifer_sp_1H6	V
+    Ensifer_adhaerens_OV14	V
+    Ensifer_sp_Root423	V
+    Ensifer_sp_Root1298	V
+    Ensifer_sp_Root1312	V
+    Ensifer_sp_Root74	V
+    Ensifer_sp_Root1252	V
+    Ensifer_sp_Root127	V
+    Ensifer_sp_Root142	V
+    Ensifer_sp_Root231	V
+    Ensifer_sp_Root258	V
+    Ensifer_sp_Root278	V
+    Ensifer_sp_Root31	V
+    Ensifer_sp_Root558	V
+    Ensifer_sp_BR816	F
+    Ensifer_aridi_JNVU_TP6	F
+    Ensifer_sp_WSM1721	F
+    Ensifer_sp_USDA_6670	F
+    Ensifer_sp_ZNC0028	M
+    Fulvimarina_manganoxydans_CGMCC_1_10972	f
+    Fulvimarina_pelagi_HTCC2506	f
+    Fulvimarina_pelagi_DSM_15513	f
+    Hoeflea_sp_BAL378	f
+    Hoeflea_olei_JC234	f
+    Hoeflea_sp_108	f
+    Hoeflea_sp_IMCC20628	f
+    Hoeflea_phototrophica_DFL_43	M
+    Hyphomicrobium_denitrificans_1NES1	f
+    Hyphomicrobium_denitrificans_ATCC_51888	f
+    Hyphomicrobium_sp_99	f
+    Hyphomicrobium_sp_802	f
+    Hyphomicrobium_sp_MC1	f
+    Hyphomicrobium_sp_CS1BSMeth3	f
+    Hyphomicrobium_sp_CS1GBMeth3	f
+    Hyphomicrobium_sp_NDB2Meth4	f
+    Hyphomicrobium_zavarzinii_ATCC_27496_ZV_622	f
+    Kaistia_granuli_DSM_23481_Ko04	f
+    Kaistia_soli_DSM_19436	f
+    Labrys_sp_WJW	f
+    Maritalea_myrionectae_DSM_19524	M
+    Martelella_endophytica_YC6887	V
+    Martelella_sp_AD_3	f
+    Martelella_mediterranea_DSM_17316_MACL11	f
+    Mesorhizobium_alhagi_CCNWXJ12_2	F
+    Mesorhizobium_sp_L2C066B000	F
+    Mesorhizobium_sp_LNJC372A00	F
+    Mesorhizobium_sp_LNJC399B00	F
+    Mesorhizobium_sp_L103C131B0	F
+    Mesorhizobium_sp_L2C085B000	F
+    Mesorhizobium_sp_LNJC374B00	F
+    Mesorhizobium_sp_LNJC391B00	F
+    Mesorhizobium_sp_LSHC426A00	F
+    Mesorhizobium_sp_LSJC280B00	F
+    Mesorhizobium_sp_WSM2561	F
+    Mesorhizobium_sp_L2C054A000	F
+    Mesorhizobium_sp_L48C026A00	F
+    Mesorhizobium_sp_L103C565B0	F
+    Mesorhizobium_sp_L2C089B000	F
+    Mesorhizobium_sp_LSHC422A00	F
+    Mesorhizobium_sp_LSHC432A00	F
+    Mesorhizobium_sp_LSHC440B00	F
+    Mesorhizobium_erdmanii_USDA_3471	F
+    Mesorhizobium_sp_L103C120A0	F
+    Mesorhizobium_sp_LNJC395A00	F
+    Mesorhizobium_sp_LNJC403B00	F
+    Mesorhizobium_sp_LSJC269B00	F
+    Mesorhizobium_sp_STM_4661	F
+    Mesorhizobium_sp_WSM3224	F
+    Mesorhizobium_sp_AA22	F
+    Mesorhizobium_amorphae_CCNWGS0123	F
+    Mesorhizobium_loti_MAFF303099	F
+    Mesorhizobium_loti_NZP2037	F
+    Mesorhizobium_loti_R7A	F
+    Mesorhizobium_opportunistum_WSM2075	F
+    Mesorhizobium_sp_AA23	F
+    Mesorhizobium_prunaredense	F
+    Mesorhizobium_sp_L2C084A000	F
+    Mesorhizobium_sp_LNHC220B00	F
+    Mesorhizobium_australicum_WSM2073	F
+    Mesorhizobium_ciceri_CC1192	F
+    Mesorhizobium_ciceri_biovar_biserrulae_WSM1284	F
+    Mesorhizobium_ciceri_biovar_biserrulae_WSM1271	F
+    Mesorhizobium_ciceri_CMG6	F
+    Mesorhizobium_loti_CJ3sym	F
+    Mesorhizobium_loti_R88b	F
+    Mesorhizobium_sp_WSM1293	F
+    Mesorhizobium_sp_WSM1497	F
+    Mesorhizobium_sp_WSM3626	F
+    Mesorhizobium_huakuii_7653R	F
+    Mesorhizobium_plurifarium	F
+    Mesorhizobium_sp_L2C067A000	F
+    Mesorhizobium_sp_ORS3359	F
+    Mesorhizobium_sp_LNHC232B00	F
+    Mesorhizobium_sp_LNHC221B00	F
+    Mesorhizobium_sp_ORS3324	F
+    Mesorhizobium_sp_WSM3873	F
+    Mesorhizobium_sp_LNHC252B00	F
+    Mesorhizobium_sp_1M_11	V
+    Mesorhizobium_sp_LCM_4577	V
+    Mesorhizobium_sp_Root172	V
+    Mesorhizobium_sp_Root102	V
+    Mesorhizobium_sp_Root695	V
+    Mesorhizobium_sp_Root1471	V
+    Mesorhizobium_sp_Root554	V
+    Mesorhizobium_sp_Root157	V
+    Mesorhizobium_sp_Root552	V
+    Mesorhizobium_sp_B7	f
+    Mesorhizobium_sp_F7	f
+    Mesorhizobium_sp_LC103	f
+    Mesorhizobium_sp_UASWS1009	f
+    Mesorhizobium_sp_NBIMC_P2_C1	M
+    Mesorhizobium_sp_NBIMC_P2_C2	M
+    Mesorhizobium_sp_NBIMC_P2_C3	M
+    Mesorhizobium_sp_NBIMC_P2_C4	M
+    Methylobacterium_aquaticum_MA_22A	V
+    Methylobacterium_sp_Leaf92	V
+    Methylobacterium_sp_Leaf121	V
+    Methylobacterium_sp_Leaf119	V
+    Methylobacterium_sp_Leaf122	V
+    Methylobacterium_extorquens_PA1	V
+    Methylobacterium_populi_BJ001	V
+    Methylobacterium_sp_AMS5	V
+    Methylobacterium_sp_Leaf123	V
+    Methylobacterium_sp_Leaf90	V
+    Methylobacterium_phyllosphaerae_CBMB27	V
+    Methylobacterium_radiotolerans_JCM_2831	V
+    Methylobacterium_sp_UNCCL110	V
+    Methylobacterium_platani_PMB02	V
+    Methylobacterium_sp_GXF4	V
+    Methylobacterium_sp_GXS13	V
+    Methylobacterium_sp_Leaf108	V
+    Methylobacterium_sp_Leaf399	V
+    Methylobacterium_sp_Leaf466	V
+    Methylobacterium_sp_Leaf87	V
+    Methylobacterium_sp_Leaf99	V
+    Methylobacterium_sp_Leaf100	V
+    Methylobacterium_sp_Leaf102	V
+    Methylobacterium_sp_Leaf112	V
+    Methylobacterium_sp_Leaf469	V
+    Methylobacterium_sp_Leaf111	V
+    Methylobacterium_sp_Leaf117	V
+    Methylobacterium_sp_Leaf88	V
+    Methylobacterium_sp_Leaf113	V
+    Methylobacterium_sp_Leaf89	V
+    Methylobacterium_sp_Leaf465	V
+    Methylobacterium_sp_Leaf125	V
+    Methylobacterium_sp_Leaf94	V
+    Methylobacterium_sp_Leaf104	V
+    Methylobacterium_sp_Leaf86	V
+    Methylobacterium_sp_Leaf106	V
+    Methylobacterium_sp_Leaf85	V
+    Methylobacterium_sp_Leaf91	V
+    Methylobacterium_sp_Leaf93	V
+    Methylobacterium_sp_Leaf361	V
+    Methylobacterium_sp_Leaf456	V
+    Methylobacterium_extorquens_PSBB040	f
+    Methylobacterium_zatmanii_PSBB041	f
+    Methylobacterium_extorquens_AM1	f
+    Methylobacterium_extorquens_CM4	f
+    Methylobacterium_extorquens_DM4	f
+    Methylobacterium_sp_10	f
+    Methylobacterium_sp_88A	f
+    Methylobacterium_sp_77	f
+    Methylobacterium_sp_C1	f
+    Methylobacterium_sp_CCH5_D2	f
+    Methylobacterium_nodulans_ORS_2060	F
+    Methylobacterium_sp_4_46	F
+    Methylobacterium_populi_CD11_7	M
+    Methylocapsa_acidiphila_B2	f
+    Methylocapsa_aurea_KYG_T	f
+    Methylocella_silvestris_BL2	f
+    Methylocystis_sp_SC2	f
+    Methylocystis_rosea_SV97	f
+    Methylocystis_sp_ATCC_49242_Rockwell	f
+    Methylocystis_sp_LW5	f
+    Methyloferula_stellata_AR4_AR4T	f
+    Methylopila_sp_73B	f
+    Methylopila_sp_M107	f
+    Methylosinus_sp_R_45379	f
+    Methylosinus_sp_LW4	f
+    Methylosinus_sp_LW3	f
+    Methylosinus_sp_PW1	f
+    Methylosinus_trichosporium_OB3b	f
+    Microvirga_lotononidis_WSM3557	F
+    Microvirga_vignae_BR3299	F
+    Microvirga_massiliensis	M
+    Neorhizobium_galegae_bv_orientalis_str_HAMBI_540	F
+    Neorhizobium_galegae_bv_officinalis_bv_officinalis_str_HAMBI_1141	F
+    Nitratireductor_aquibiodomus_EBB_35_1	M
+    Nitratireductor_basaltis_RR3_28	f
+    Nitratireductor_indicus_C115	f
+    Nitratireductor_pacificus_pht_3B	f
+    Nitrobacter_vulgaris_Ab1	f
+    Nitrobacter_winogradskyi_Nb_255	f
+    Ochrobactrum_intermedium_SA148	f
+    Ochrobactrum_intermedium_2745_2	f
+    Ochrobactrum_sp_EGD_AQ16	f
+    Ochrobactrum_sp_CDB2	f
+    Ochrobactrum_pseudogrignonense_K8	f
+    Ochrobactrum_rhizosphaerae_SJY1	f
+    Ochrobactrum_sp_P6BS_III	f
+    Ochrobactrum_anthropi_ATCC_49188	M
+    Ochrobactrum_intermedium_LMG_3301	M
+    Ochrobactrum_intermedium_M86	M
+    Ochrobactrum_cytisi_IPA7_2	V
+    Ochrobactrum_sp_UNC390CL2Tsu3S39	V
+    Ochrobactrum_pituitosum_AA2	V
+    Oligotropha_carboxidovorans_OM4	f
+    Oligotropha_carboxidovorans_OM5	f
+    Paramesorhizobium_deserti_A_3_E	f
+    Parvibaculum_lavamentivorans_DS_1	f
+    Pelagibacterium_halotolerans_B2	f
+    Phyllobacterium_sp_UNC302MFCol5_2	V
+    Phyllobacterium_sp_YR531	V
+    Pleomorphomonas_oryzae_DSM_16300	V
+    Pseudaminobacter_manganicus_JH_7	f
+    Pseudochrobactrum_sp_AO18b	M
+    Pseudochrobactrum_sp_B5	f
+    Pseudolabrys_sp_Root1462	V
+    Pseudorhodoplanes_sinuspersici_RIPI110	f
+    Rhizobium_etli_CNPAF512	F
+    Rhizobium_sp_N1314	F
+    Rhizobium_sp_N731	F
+    Rhizobium_leguminosarum_bv_phaseoli_CCGM1	F
+    Rhizobium_leguminosarum_Vaf10	F
+    Rhizobium_leguminosarum_Vaf12	F
+    Rhizobium_leguminosarum_Vaf_46	F
+    Rhizobium_leguminosarum_bv_viciae_VF39	F
+    Rhizobium_ecuadorense_CNPSO_671	F
+    Rhizobium_sp_RSm_3	F
+    Rhizobium_leguminosarum_bv_viciae_RCAM_1026	F
+    Rhizobium_leguminosarum_bv_trifolii_Rt24_2	F
+    Rhizobium_sp_WYCCWR10015	F
+    Rhizobium_leguminosarum_bv_viciae_WSM1455	F
+    Rhizobium_leguminosarum_bv_viciae_WSM1481	F
+    Rhizobium_sophorae_CCBAU_03386	F
+    Rhizobium_leguminosarum_bv_viciae_Vc2	F
+    Rhizobium_etli_N561	F
+    Rhizobium_sp_N113	F
+    Rhizobium_sp_N1341	F
+    Rhizobium_sp_N621	F
+    Rhizobium_sp_N6212	F
+    Rhizobium_sp_N741	F
+    Rhizobium_sp_N871	F
+    Rhizobium_aegyptiacum_950	F
+    Rhizobium_bangladeshense_1002	F
+    Rhizobium_bangladeshense_1017	F
+    Rhizobium_bangladeshense_1024	F
+    Rhizobium_etli_bv_mimosae_str_IE4771	F
+    Rhizobium_etli_bv_mimosae_str_Mim1	F
+    Rhizobium_etli_CFN_42	F
+    Rhizobium_etli_CIAT_652	F
+    Rhizobium_etli_NXC12	F
+    Rhizobium_gallicum_bv_gallicum_R602sp	F
+    Rhizobium_laguerreae_FB206	F
+    Rhizobium_leguminosarum_bv_phaseoli_4292	F
+    Rhizobium_leguminosarum_bv_phaseoli_FA23	F
+    Rhizobium_leguminosarum_bv_trifolii_CC278f	F
+    Rhizobium_leguminosarum_bv_trifolii_CC283b	F
+    Rhizobium_leguminosarum_bv_trifolii_SRDI565	F
+    Rhizobium_leguminosarum_bv_trifolii_SRDI943	F
+    Rhizobium_leguminosarum_bv_trifolii_WSM1325	F
+    Rhizobium_leguminosarum_bv_trifolii_WSM2297	F
+    Rhizobium_leguminosarum_bv_viciae_3841	F
+    Rhizobium_leguminosarum_bv_viciae_GB30	F
+    Rhizobium_leguminosarum_bv_viciae_TOM	F
+    Rhizobium_leguminosarum_bv_viciae_UPM1137	F
+    Rhizobium_leguminosarum_bv_viciae_USDA_2370	F
+    Rhizobium_phaseoli_N161	F
+    Rhizobium_phaseoli_N261	F
+    Rhizobium_phaseoli_N671	F
+    Rhizobium_phaseoli_N771	F
+    Rhizobium_phaseoli_N831	F
+    Rhizobium_phaseoli_N841	F
+    Rhizobium_phaseoli_N931	F
+    Rhizobium_phaseoli_R611	F
+    Rhizobium_phaseoli_R620	F
+    Rhizobium_phaseoli_R630	F
+    Rhizobium_phaseoli_R650	F
+    Rhizobium_phaseoli_R723	F
+    Rhizobium_phaseoli_R744	F
+    Rhizobium_sp_WYCCWR10014	F
+    Rhizobium_acidisoli_FH23	F
+    Rhizobium_leguminosarum_bv_trifolii_WSM597	F
+    Rhizobium_leguminosarum_bv_trifolii_WSM2012	F
+    Rhizobium_etli_bv_phaseoli_str_IE4803	F
+    Rhizobium_etli_CIAT_894	F
+    Rhizobium_leguminosarum_bv_trifolii_CB782	F
+    Rhizobium_leguminosarum_bv_trifolii_TA1	F
+    Rhizobium_leguminosarum_bv_trifolii_WSM1689	F
+    Rhizobium_leguminosarum_bv_trifolii_WSM2304	F
+    Rhizobium_sp_CCGE_510	F
+    Rhizobium_sp_N324	F
+    Rhizobium_sp_N541	F
+    Rhizobium_sp_N941	F
+    Rhizobium_gallicum_IE4872	F
+    Rhizobium_gallicum_bv_gallicum_R602	F
+    Rhizobium_etli_8C_3	F
+    Rhizobium_mongolense_USDA_1844	F
+    Rhizobium_favelukesii_LPU83	F
+    Rhizobium_sp_BR10423	F
+    Rhizobium_grahamii_CCGE_502	F
+    Rhizobium_freirei_PRF_81	F
+    Rhizobium_hainanense_CCBAU_57015	F
+    Rhizobium_tropici_CIAT_899	F
+    Rhizobium_giardinii_bv_giardinii_H152	F
+    Rhizobium_leguminosarum_Vaf_108	F
+    Rhizobium_leguminosarum_bv_viciae_248	F
+    Rhizobium_leguminosarum_bv_viciae_UPM1131	F
+    Rhizobium_leucaenae_CPAO_29_8	F
+    Rhizobium_leucaenae_USDA_9039	F
+    Rhizobium_mesoamericanum_STM3625	F
+    Rhizobium_mesoamericanum_STM6155	F
+    Rhizobium_sp_IRBG74	F
+    Rhizobium_taibaishanense_14971	F
+    Rhizobium_vignae_CCBAU_05176	F
+    Rhizobium_sp_CF142	V
+    Rhizobium_alamii_YR584	V
+    Rhizobium_nepotum_39_7	V
+    Rhizobium_sp_TBD182	V
+    Rhizobium_pusense_NRCPB10	V
+    Rhizobium_sp_UR51a	V
+    Rhizobium_sp_Root491	V
+    Rhizobium_sp_Root651	V
+    Rhizobium_sp_Root1203	V
+    Rhizobium_phaseoli_Ch24_10	V
+    Rhizobium_sp_NXC14	V
+    Rhizobium_tropici_CF286	V
+    Rhizobium_sp_P44RR_XXIV	V
+    Rhizobium_rhizogenes_NBRC_13257	V
+    Rhizobium_sp_AC27_96	V
+    Rhizobium_sp_AP16	V
+    Rhizobium_sp_YR060	V
+    Rhizobium_sp_OK494	V
+    Rhizobium_rhizosphaerae_RD15	V
+    Rhizobium_sp_2MFCol3_1	V
+    Rhizobium_sp_YR528	V
+    Rhizobium_sp_AC44_96	V
+    Rhizobium_sp_CF048	V
+    Rhizobium_sp_OV201	V
+    Rhizobium_sp_42MFCr_1	V
+    Rhizobium_sp_Root1220	V
+    Rhizobium_sp_YR519	V
+    Rhizobium_sp_Root708	V
+    Rhizobium_sp_CF122	V
+    Rhizobium_sp_IBUN	V
+    Rhizobium_sp_CF080	V
+    Rhizobium_sp_YR295	V
+    Rhizobium_sp_Root1204	V
+    Rhizobium_sp_Root1334	V
+    Rhizobium_sp_Root73	V
+    Rhizobium_sp_Leaf391	V
+    Rhizobium_sp_Leaf453	V
+    Rhizobium_sp_OK665	V
+    Rhizobium_sp_CF097	V
+    Rhizobium_sp_CF394	V
+    Rhizobium_sp_Leaf155	V
+    Rhizobium_sp_Root564	V
+    Rhizobium_sp_Leaf262	V
+    Rhizobium_sp_Leaf321	V
+    Rhizobium_sp_Leaf306	V
+    Rhizobium_sp_PDO1_076	V
+    Rhizobium_sp_Root1240	V
+    Rhizobium_sp_Root274	V
+    Rhizobium_sp_Root149	V
+    Rhizobium_sp_Root482	V
+    Rhizobium_sp_Root483D2	V
+    Rhizobium_sp_RU33A	V
+    Rhizobium_flavum_YW14	f
+    Rhizobium_sp_NT_26	f
+    Rhizobium_marinum_MGL06	f
+    Rhizobium_sp_58	f
+    Rhizobium_sp_59	f
+    Rhizobium_sp_AAP116	f
+    Rhizobium_sp_AAP43	f
+    Rhizobium_sp_H41	f
+    Rhizobium_sp_S41	f
+    Rhizobium_sp_GHKF11	f
+    Rhizobium_sp_LC145	f
+    Rhizobium_sp_RU36D	f
+    Rhizobium_sp_YK2	f
+    Rhodopseudomonas_palustris_ELI_1980	f
+    Rhodopseudomonas_palustris_CGA009	f
+    Rhodopseudomonas_palustris_DX_1	f
+    Rhodopseudomonas_palustris_TIE_1	f
+    Rhodopseudomonas_palustris_BisB18	f
+    Rhodopseudomonas_palustris_BisA53	f
+    Rhodopseudomonas_palustris_HaA2	f
+    Rhodopseudomonas_palustris_BisB5	f
+    Rhodopseudomonas_sp_AAP120	f
+    Salinarimonas_rosea_DSM_21201	f
+    Shinella_sp_GWS1	V
+    Shinella_sp_SUS2	V
+    Shinella_sp_HZN7	f
+    Sinorhizobium_fredii_CCBAU_83622	F
+    Sinorhizobium_fredii_CCBAU_45436	F
+    Sinorhizobium_fredii_CCBAU_25509	F
+    Sinorhizobium_fredii_CCBAU_05557	F
+    Sinorhizobium_fredii_CCBAU_83666	F
+    Sinorhizobium_fredii_CCBAU_83753	F
+    Sinorhizobium_fredii_USDA_257	F
+    Sinorhizobium_americanum_CFNEI_73	F
+    Sinorhizobium_americanum_CCGM7	F
+    Sinorhizobium_fredii_GR64	F
+    Sinorhizobium_fredii_HH103	F
+    Sinorhizobium_medicae_WSM419	F
+    Sinorhizobium_meliloti_WSM4191	F
+    Sinorhizobium_medicae_WSM1115	F
+    Sinorhizobium_medicae_DI28	F
+    Sinorhizobium_medicae_WSM244	F
+    Sinorhizobium_meliloti_2011	F
+    Sinorhizobium_meliloti_Mlalz_1	F
+    Sinorhizobium_meliloti_WSM1022	F
+    Sinorhizobium_meliloti_AK58	F
+    Sinorhizobium_meliloti_RRl128	F
+    Sinorhizobium_meliloti_4H41	F
+    Sinorhizobium_meliloti_AE608H	F
+    Sinorhizobium_meliloti_AK83	F
+    Sinorhizobium_meliloti_BL225C	F
+    Sinorhizobium_meliloti_BO21CC	F
+    Sinorhizobium_meliloti_CCNWSX0020	F
+    Sinorhizobium_meliloti_CIAM1775	F
+    Sinorhizobium_meliloti_GR4	F
+    Sinorhizobium_meliloti_GVPV12	F
+    Sinorhizobium_meliloti_MVII_I	F
+    Sinorhizobium_meliloti_Rm41	F
+    Sinorhizobium_meliloti_SM11	F
+    Sinorhizobium_arboris_LMG_14919	F
+    Sinorhizobium_sp_CCBAU_05631	F
+    Sinorhizobium_sp_PC2	F
+    Sinorhizobium_fredii_CCBAU_83643	F
+    Sinorhizobium_fredii_USDA_205	F
+    Sinorhizobium_fredii_NGR234	F
+    Sinorhizobium_sp_GW3	f
+    Sinorhizobium_sp_Sb3	f
+    Sinorhizobium_sp_A49	f
+    Sinorhizobium_sp_GL28	f
+    Sinorhizobium_sp_RAC02	V
+    Starkeya_novella_DSM_506	f
+    Tardiphaga_robiniae_Vaf_07	F
+    Tepidicaulis_marinus_MA2	f
+    Terasakiella_pusilla_DSM_6293	f
+    Xanthobacter_autotrophicus_Py2	f
+    Xanthobacter_sp_91	f
+    Xanthobacter_sp_126	f
+    Xanthobacteraceae_bacterium_501b	f
+end
