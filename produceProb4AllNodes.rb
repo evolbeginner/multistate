@@ -32,9 +32,9 @@ case type
   when 'mcmc'
     puts 1
     puts 2
-    puts "Stones 1000 10000"
-    puts "Iterations 11000000"
-    puts "burnin 1000000"
+    puts "Stones 100 10000"
+    puts "Iterations 1100000"
+    puts "burnin 100000"
     puts
   when 'ml'
     puts 1

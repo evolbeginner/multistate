@@ -29,7 +29,8 @@ taxon2TaxonOri = Hash.new
 
 
 #########################################################
-edge_dist_cats = {'15'=>'red','20'=>'orange','28'=>'green','38'=>'blue'}
+#edge_dist_cats = {'15'=>'red','20'=>'orange','28'=>'green','38'=>'blue'}
+edge_dist_cats = {'10'=>'red','11'=>'green','12'=>'black'}
 
 
 #########################################################
@@ -80,7 +81,7 @@ in_fh.each_line do |line|
   if line =~ /^\t+TREE [^()]+ (\( .+ ;)$/x
     nwk_str = Marshal.load(Marshal.dump($1))
     #[&map={20}]0.0208191387
-    nwk_str.gsub!(/\[\&map=\{([0-9]+)\}\][0-9.]+/, '\1')
+    nwk_str.gsub!(/\[ \&map=\{ (\d+) \} \] [0-9.]+ ([Ee][-]\d+)?/x, '\1')
     nwk = Bio::Newick.new(nwk_str)
     tree = nwk.tree()
   end
